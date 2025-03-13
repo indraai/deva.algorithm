@@ -8,36 +8,31 @@ name: ::agent_name::
 emoji: ::agent_emoji::
 describe: ::agent_describe::
 
+talk: #algo file:public main:header
+
 ## Features
 
-### security
 p: The local #security feature available to ::agent_name::.
 cmd:#::agent_key:: security
 
-### support
 p: The local #support feature available to ::agent_name::.
 cmd:#::agent_key:: support
 
-### services
 p: The local #services feature available to ::agent_name::.
 cmd:#::agent_key:: services
 
 
 ## Methods
 
-### uid
 p:Generate a unique id from the ::agent_name::.
 cmd:#::agent_key:: uid
 
-### today
 p:Generate a date from the ::agent_name::.
 cmd:#::agent_key:: today
 
-### status
 p:Return the status for the ::agent_name::.
 cmd:#::agent_key:: status
 
-### help
 p:Get help using the ::agent_name::
 cmd:#::agent_key:: help
 
