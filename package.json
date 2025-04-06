@@ -27,11 +27,11 @@
   },
   "homepage": "https://deva.space/devas/algorithm",
   "dependencies": {
-    "@indra.ai/deva": "^1.4.24"
+    "@indra.ai/deva": "^1.4.25"
   },
   "data": {
     "agent": {
-      "id": 2786414868244,
+      "id": 2035656527451,
       "key": "algorithm",
       "prompt": {
         "emoji": "🥼",
@@ -71,7 +71,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Ready!",
+        "ready": "⭐️ READY!",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
