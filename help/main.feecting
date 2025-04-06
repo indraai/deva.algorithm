@@ -2,7 +2,8 @@
 
 ::agent_profile::
 
-talk: #algo file:public main:header
+talk: #security file:public main:header
+talk: #algorithm file:public main:header
 
 copyright: ©2025 Quinn Michaels
 
@@ -11,3 +12,9 @@ copyright: ©2025 Quinn Michaels
 #bgcolor = ::agent_bgcolor::
 #bg = ::agent_background::
 ::end:hidden
+
+#FourfouldMeans
+1. The Veda
+2. The sacred tradition
+3. The customs of virtuous men
+4. One's own pleasure
