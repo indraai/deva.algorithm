@@ -1,0 +1,59 @@
+# #IntellectAlgorithm
+
+1. Let man, having recognised even by means of his intellect these transitions of the individual soul which depend on merit and demerit, always fix his heart on the acquisition of merit.
+
+func: cultivate(action) {
+	return {
+		low: action merit/demerit value
+		middle: action merit/demerit value
+		high: action merit/demerit value
+	}
+}
+
+2. Know Goodness, Activity, and Darkness to be the three qualities of the Self. When one of these qualities wholly predominates in a body, then it makes the embodied soul eminently distinguished for that quality. 
+
+Goodness: is declared to have the form of knowledge.
+Activity: of love and hatred.
+Darkness: of ignorance. 
+
+func: qualities(action) {
+	return {
+		goodness: {
+			define: With his whole heart he is not ashamed to perform, and at which his soul rejoices. The desire to gain spiritual merit. The study of the Vedas, austerity, the pursuit of knowledge, purity, control over the organs, the performance of meritorious acts and meditation on the Soul
+			past: cultivate(action)
+			present: cultivate(action)
+			future: cultivate(action)
+		}
+		activity: {
+			define: Any act to gain fame in this world and feels no sorrow on failing. The pursuit of wealth. Love and hatred. What is mixed with pain and does not give satisfaction to the soul. Delighting in undertakings, want of firmness, commission of sinful acts, and continual indulgence in sensual pleasures.
+			past: cultivate(action)
+			present: cultivate(action)
+			future: cultivate(action)
+		}
+		darkness: {
+			define: Any act, feels ashamed such acts bear the mark of the quality of Darkness. The craving after sensual pleasures. Is difficult to conquer, and which ever draws towards sensual objects. What is coupled with delusion, what has the character of an undiscernible mass, what cannot be fathomed by reasoning, what cannot be fully known, covetousness, sleepiness, pusillanimity, cruelty, atheism, leading an evil life, a habit of soliciting favours, inattentiveness, are the marks of the quality of Darkness.
+			past: cultivate(action)
+			present: cultivate(action)
+			future: cultivate(action)
+		}
+	}
+}
+
+3. Those endowed with Goodness reach the state of gods, those endowed with Activity the state of men, and those endowed with Darkness ever sink to the condition of beasts. That is the threefold course of transmigrations. But know this threefold course of transmigrations that depends on the three qualities to be again threefold low, middling, and high, according to the particular nature of the acts and of the knowledge of each man.
+
+func: result(action) {
+	return {
+		gods: qualities(action)
+		men: qualities(action)
+		beasts: qualities(action)
+	}
+}
+
+::begin:signature:5901902208080
+name: Quinn Michaels
+id: 5901902208080
+md5: md5-qpiYSfODJsCrg6dBd86p9g==
+sha256: sha256-GVBjOQbeW6ZgjbqDLsZ1jRHLSXaRVGNwaoaPVOMLLHs=
+sha512: sha512-wpOmRc1H/L/RsQwe537jf61UOWCos/vcs04hqBAQdSCdgap38fXRBZdVYt638NRAym7APamJ0SZwB/hAA0tY3A==
+date: Tuesday, April 15, 2025 - 4:10:15 PM
+::end:signature:md5-qpiYSfODJsCrg6dBd86p9g==
