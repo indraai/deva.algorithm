@@ -35,8 +35,42 @@ const ALGORITHM = new Deva({
   listeners: {},
   modules: {},
   deva: {},
-  func: {},
-  methods: {},
+  func: {
+    async list(opts) {
+      this.action('func', `list:${opts.id}`);
+      let filedata = false;
+      try {
+        const filepath = this.lib.path.join(__dirname, 'data', 'algorithms.json');
+        filedata = this.lib.fs.readFileSync(filepath, 'utf-8');
+        filedata = JSON.parse(filedata, null, 2);
+      }
+      catch(e) {
+        throw e;  
+      }
+      finally {
+        return filedata;
+      }
+    }
+  },
+  methods: {
+    list(packet) {
+      this.context('list', packet.id);
+      this.action('method', `list:${packet.id}`);
+      const data = {};
+      return new Promise((resolve, reject) => {
+        this.func.list(packet).then(items => {
+          data.items = items;
+          return resolve({
+            text: `items in data`,
+            html: `items in data`,
+            data,
+          })
+        }).catch(err => {
+          return this.error(err, packet, reject);
+        })
+      });
+    }
+  },
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);
     return resolve(data);
