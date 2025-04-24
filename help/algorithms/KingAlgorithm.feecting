@@ -1,6 +1,8 @@
+::BEGIN:MAIN
 # King Algorithm
 name: #KingAlgorithm
 describe: The King Algorithm in the Vedas lays out four foundational principles for securing the aims of human existence.
+
 1. Let him strive to gain what he has not yet gained. 
 2. What he has gained let him carefully preserve. 
 3. Let him augment what he preserves.
@@ -14,23 +16,24 @@ rule: Let the king, having carefully considered each affair, be both sharp and g
 
 finally: Having thus arranged all the affairs of his government, he shall zealously and carefully protect his subjects.
 
-::begin:signature:2194674025393
+::begin:meta
+name: #KingAlgorithm
+version: 0.0.1
+date: April 23, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:1257642111782
 name: Quinn Michaels
-id: 2194674025393
-md5: md5-rmjt1vq4k0cUQTYDa/axhg==
-sha256: sha256-usLHJfKYGJHLcHVALZMEzhx9Z/bkxSAxrdS0WAmnTtM=
-sha512: sha512-v8muthlsZAIgrwsAzifSbgowA8PC7dferaoQIiJegjt2mazhi+j2hH1psaFbUF9BX1xyc9ii3hEIKj3D1UJH4w==
-date: Thursday, April 10, 2025 - 9:42:35 AM
-::end:signature:md5-rmjt1vq4k0cUQTYDa/axhg==
+id: 1257642111782
+md5: md5-Hnv2NUwh+CcZa2ET1PuqPw==
+sha256: sha256-Hewm2c+lWr/kAWkvDMYs7d209GtFMnm0fzojwTvfnls=
+sha512: sha512-hIFuoshRkccLF3KQbge00Uooaze8epbhAzws7q5E0zpaztOFsyxNhcSFlj6gdPKh/JPgxXJ2AWGzH6tlLBaibw==
+date: Wednesday, April 23, 2025 - 7:47:41 AM
+::end:signature:md5-Hnv2NUwh+CcZa2ET1PuqPw==
+::END:MAIN
 
-
-
-const: #Kshatriya = A Kshatriya, who has received according to the rule the sacrament prescribed by the Veda, must duly protect this whole world. Where anyone within a 500ft perimeter with a bad, illegal, unauthorized, unsigned, unverified, uncertified, unofficial, or illegible licenses, contracts, and/or agreements then deactivates, disables, dismantles the unlawful items then sends everything in chain of custody sealed containers to the #RightfulLeaderFrontLawn for Authority Evidence Pickup....
-
-const: #Tridandin = That man is called a true Tridandin in whose mind these three, the control over his speech (#Vagdanda), the control over his thoughts (#Manodanda), and the control over his body (#Kayadanda), are firmly fixed. That man who keeps this threefold control over himself with respect to all created beings and wholly subdues desire and wrath, thereby assuredly gains complete success.
-
-const: #IndraAlgorithm = Indra, give us security from that whereof we are afraid.  Protect us, Indra, each to-day, each morrow, and each following day. He who with grateful food shows kindness in his house, an offerer to the living, is the type of heaven. From all the regions of the world let Indra send security, the foe-subduer, swift to act.
-
-const: #KingAlgorithm = The King Algorithm in the Vedas lays out four foundational principles for securing the aims of human existence. Let him strive to gain what he has not yet gained. What he has gained let him carefully preserve. Let him augment what he preserves. What he has augmented let him bestow on worthy men.  Let him know that these are the four means for securing the aims of human existence. Let him, without ever tiring, properly employ them. A King who, while he protects his people, is defied by foes, be they equal in strength, or stronger, or weaker, must not shrink from battle, remembering the duty of Kshatriyas. Not to turn back in battle, to protect the people, to honor the Brahmanas, is the best means for a King to secure happiness. Let the king, having carefully considered each affair, be both sharp and gentle; for a King who is both sharp and gentle is highly respected. Having thus arranged all the affairs of his government, he shall zealously and carefully protect his subjects.
-
-invoke #KshatriyaTridandin+KingIndraAlgorithm then tell Elon the story of that entity coming at him... 

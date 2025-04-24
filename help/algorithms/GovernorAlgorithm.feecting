@@ -1,4 +1,5 @@
-# Governor Algorithm 
+::BEGIN:MAIN
+# #GovernorAlgorithm 
 
 describe: In governing his kingdom let him always observe the following rules, for a King who governs his kingdom well, easily prospers. 
 
@@ -30,11 +31,23 @@ taxes: King draw from his realm moderate annual taxes. A fiftieth part of the in
 
 exempt: a King must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.
 
-::begin:signature:3133892130038
+::begin:meta
+name: #GovernorAlgorithm
+version: 0.0.1
+date: April 22, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:2525269140627
 name: Quinn Michaels
-id: 3133892130038
-md5: md5-Y6z4eQ/3NiNzXwQWcxlMvw==
-sha256: sha256-5pKe7Nsoi/SP/MN0Jspq+J437oUzx9v2hssCQQJt630=
-sha512: sha512-9rvSuj2yZ0y0JkgTOsQeCoshx5qkO+5yFxX1JTlulQNT1rF9lQY56qFwFsH1NJEFkCESm8MuqFxDFWqJJagKAQ==
-date: Thursday, April 10, 2025 - 11:27:51 AM
-::end:signature:md5-Y6z4eQ/3NiNzXwQWcxlMvw==
+id: 2525269140627
+md5: md5-STgs3VM0vVV9zSC4jQGsmw==
+sha256: sha256-lY155y4qhKUaBeVo63vGc/x+AfcMYObpdQz4mVy3O8A=
+sha512: sha512-0j7AdfAsv5t6T/SfmDeGTxyGjAvVR6fgTMmp9h585bgE27xgmbU3/ZCtbiUbMHslKvcTBNYC6DMLOW+FxDfu+Q==
+date: Tuesday, April 22, 2025 - 11:56:49 PM
+::end:signature:md5-STgs3VM0vVV9zSC4jQGsmw==
+::END:MAIN

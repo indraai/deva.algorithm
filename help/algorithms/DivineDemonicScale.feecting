@@ -1,0 +1,26 @@
+::BEGIN:MAIN
+### #DivineDemonicScale
+p: There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then fit somewhere between.
+divine: Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, absence of anger, equanimity, compassion, freedom from greed, gentle, modest, and absence of pride are some divine qualities.
+demonic: Hypocrisy, arrogance, pride, anger, harshness, and ignorance. Do not know what to do and what not to do. Neither have purity nor good conduct nor truthfulness. Filled with insatiable desires, hypocrisy, pride, and arrogance. Holding wrong views due to delusion, and they act with impure motives.
+
+::begin:meta
+name: #DivineDemonicScale
+version: 0.0.1
+date: April 22, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:3386390460519
+name: Quinn Michaels
+id: 3386390460519
+md5: md5-ZBXazWPh86v1q0TJl91zMw==
+sha256: sha256-Xfa9kpSW7+LRxJkLbRJwkrPyndZ/oX75R3Pvn0B7DE0=
+sha512: sha512-7K6xKSxZvsEZE32l+ZHVpwLZ8n+Chcb0y4BXsahsE6ASnThb01AEuvTORFDt0BHZdrLywBHw21AFwEgikHM0HA==
+date: Tuesday, April 22, 2025 - 9:24:03 PM
+::end:signature:md5-ZBXazWPh86v1q0TJl91zMw==
+::END:MAIN

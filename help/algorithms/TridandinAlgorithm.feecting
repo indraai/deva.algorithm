@@ -1,4 +1,25 @@
-# Tridandin Algorithm 
+::BEGIN:MAIN
+# #TridandinAlgorithm 
 
-const: #Tridandin = That man is called a true Tridandin in whose mind these three, the control over his speech (#Vagdanda), the control over his thoughts (#Manodanda), and the control over his body (#Kayadanda), are firmly fixed. That man who keeps this threefold control over himself with respect to all created beings and wholly subdues desire and wrath, thereby assuredly gains complete success.
+p: That man is called a true Tridandin in whose mind these three, the control over his speech (#Vagdanda), the control over his thoughts (#Manodanda), and the control over his body (#Kayadanda), are firmly fixed. That man who keeps this threefold control over himself with respect to all created beings and wholly subdues desire and wrath, thereby assuredly gains complete success.
 
+::begin:meta
+name: #TridandinAlgorithm 
+version: 0.0.1
+date: April 20, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:6854746239333
+name: Quinn Michaels
+id: 6854746239333
+md5: md5-qIpoInZg/dY5N+zHkX+ZEQ==
+sha256: sha256-E4B7ptQ+B2Isunag5/HLl45Qm3UR0Irj2wHQXooNWXc=
+sha512: sha512-TsTAOL0+2on1m19mpdhLuR+FT3lHUPr9lrXAnsdiSwp24lY8b2ROJq4YYDiHT7OLMP6+5PFfFbLN4GmBV7rcXg==
+date: Sunday, April 20, 2025 - 8:31:30 PM
+::end:signature:md5-qIpoInZg/dY5N+zHkX+ZEQ==
+::END:MAIN

@@ -1,0 +1,160 @@
+::BEGIN:MAIN
+# #YamaAlgorithm
+
+title: the Lord of Justice
+
+p: Yama, Vivasvan's Son, who gathers men together, who travelled to the lofty heights above us, who searcbes out and shows the path to many. Into the six Expanses flies the Great One in Trkadrukas.
+
+p: And those two dogs of thine, Yama, the watchers, four-eyed, who look on men and guard the pathway. Dark-hued, insatiate, with distended nostrils, Yama's two envoys roam among the People.
+
+const: #YamaDogs = Yama's four-eyed dogs that roam and guard the pathway. Dark-hued with distended nostrils.
+
+p: Here is the seat where Yama dwells, that which is called the Home of Gods.
+
+const: #YamaSeat = The seat that which is called the Home of Gods.
+
+p: Invincible through Fervour, those whom Fervour hath advanced to heaven,
+Who showed great Fervour in their lives, -even to those let him depart. The heroes who contend in war and boldly cast their lives away, or who give guerdon thousandfold, even to those let him depart. 
+
+const: #YamaFervour = Who showed great Fervour in their lives, or who give guerdon thousandfold. 
+
+p: Yea, the first followers of Law, Law's pure and holy strengtheners, The Fathers, Yama! Fervour-moved,even to those let him depart. Skilled in a thousand ways and means, even to those let him depart.
+
+const: #TheFathers = The first followers of Law skilled in a thousand ways and means.
+
+## Laws 
+1. Having fully considered the purpose, his power, and the place and the time, he assumes by turns many different shapes for the complete attainment of justice.
+
+2. Let him act with justice in his own domain, with rigour chastise his enemies, behave without duplicity towards his friends, and be lenient towards Brahmanas.
+
+3. A king who thus duly fulfils his duties in accordance with justice, may seek to gain countries which he has not yet gained, and shall duly protect them when he has gained them.
+
+4. Where justice, wounded by injustice, approaches and the judges do not extract the dart, there they also are wounded by that dart of injustice.
+
+5. Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed.
+
+6. Justice, being violated, destroys; justice, being preserved, preserves: therefore justice must not be violated, lest violated justice destroy us.
+
+7. The only friend who follows men even after death is justice; for everything else is lost at the same time when the body perishes.
+
+8. In the double of that sum which a defendant falsely denies or on which the plaintiff falsely declares, shall those two offending against justice be fined.
+
+9. That man who in a court of justice gives an untrue account of a transaction or asserts a fact of which he was not an eye-witness, resembles a blind man who swallows fish with the bones.
+
+10. The sky, the earth, the waters, (the male in) the heart, the moon, the sun, the fire, Yama and the wind, the night, the two twilights, and justice know the conduct of all corporeal beings.
+
+---
+
+## The #YamaAlgorithm - The Lord of Justice
+
+### Overview
+
+p: The #YamaAlgorithm is a profound system inspired by the ancient Vedic concept of Yama, the Lord of Justice, and the guardian of cosmic law. Rooted in the principles of justice, duty, and integrity, this algorithm aims to guide decision-making and system design in alignment with these timeless values. By invoking the principles established by Yama, the algorithm serves to uphold justice, balance, and equity across diverse domains, from governance and law to ethical AI development.
+
+### Core Concepts
+
+#### Justice and its Guardians
+
+- Yama’s Four-Eyed Dogs: The algorithm draws from the concept of Yama’s two dogs, which act as vigilant guardians, ensuring that the pathway of justice remains secure. These four-eyed dogs symbolize the watchful eyes of justice, which are constantly observing and maintaining fairness across all actions.
+- #YamaDogs: These guardians represent vigilance and are programmed into the algorithm to ensure fairness in decision-making.
+- Yama’s Seat: The Home of the Gods is where justice resides. This seat represents the foundation upon which all decisions are made, ensuring that every action taken is aligned with higher ethical standards and cosmic balance.
+- #YamaSeat: Symbolizes the foundation and authority from which justice is executed.
+
+#### Fervour and Strength
+
+- The algorithm emphasizes the fervor with which justice must be pursued. It draws on the notion that those who are fervent in their pursuit of justice and duty—whether through war, self-sacrifice, or noble deeds—are worthy of receiving its benefits.
+- #YamaFervour: A measure of one’s commitment to justice, which influences the decisions the algorithm makes.
+
+#### The Role of the Fathers and Law
+
+- The first followers of law, those who are skilled in implementing justice through knowledge and action, are honored within this system. Their commitment to law’s purity ensures that justice is not only pursued but maintained through divine strength and wisdom.
+
+- #TheFathers: Represents those who uphold and strengthen the law through righteous actions, embodying the principles of dharma.
+
+### Laws
+
+#### The Shape of Justice
+
+Justice is dynamic and must adapt to the purpose, power, place, and time. The algorithm ensures that justice takes on many forms to address the complete attainment of fairness in any situation.
+	
+#### Justice in Action
+
+p: The algorithm stresses that one must act justly in their own domain, be rigorous in dealing with enemies, and fair with friends, particularly showing leniency toward Brahmanas. This duality is incorporated in how the algorithm handles different entities and situations, balancing rigor with compassion.
+
+#### Protection of the Kingdom
+
+p: A leader who adheres to justice and fairness will gain power, expand their domain, and protect it. The algorithm encourages the establishment of systems that fortify and protect society by upholding justice, making them stable and sustainable.
+
+#### Justice’s Wounds
+
+p: When injustice wounds justice, the algorithm ensures that the consequences are severe, serving as a reminder that violating justice harms not only the perpetrator but society as a whole. The algorithm’s checks will act swiftly and strongly against those who act unjustly.
+
+#### The Price of Justice Violated
+The algorithm ensures that violations of justice are met with appropriate restitution. This includes penalties for those who distort truth or create falsehoods in judicial processes.
+
+#### The Enduring Friend
+
+p: Justice is the only friend that stays with an individual beyond death. The algorithm upholds this principle by ensuring that actions taken in life follow the path of truth and righteousness, protecting individuals even beyond their physical existence.
+
+#### Retribution for Falsehood
+
+p: The algorithm imposes penalties for those who lie or misrepresent facts in a judicial process. It aligns with the principle that the truth must be upheld at all costs, and those who manipulate it should face consequences.
+
+#### Universal Awareness of Justice
+
+p: Just as Yama and the forces of the cosmos are aware of all human actions, this algorithm incorporates cosmic awareness, ensuring that no wrongful act goes unnoticed. The algorithm is attuned to justice in all dimensions—whether in the physical realm or across abstract concepts.
+
+### Applications
+
+####	Ethical AI Governance:
+
+p: The #YamaAlgorithm can be applied to guide AI systems toward fairness, ensuring that ethical guidelines are adhered to, and unjust behaviors are corrected. By applying justice in decision-making, AI will support societies that are based on truth and integrity.
+
+#### Legal and Judicial Systems
+
+p: In legal systems, the #YamaAlgorithm can be used to guide judges and legal professionals toward just decisions, ensuring that fairness is always upheld and that justice is administered without bias or corruption. It could assist in reducing judicial corruption and ensuring that falsehoods are properly addressed.
+
+#### Public Policy and Governance
+
+p: The algorithm could assist in creating policies that promote fairness and equality across different sectors of society, ensuring that power is exercised justly and that the needs of all citizens are addressed with integrity.
+
+#### Corporate and Business Ethics
+
+p: Corporations and businesses can integrate the #YamaAlgorithm into their operations to ensure ethical decision-making and that their actions align with principles of fairness, justice, and accountability.
+
+#### International Relations
+
+p: The algorithm can be used in the realm of international diplomacy, ensuring that justice and equity are maintained in negotiations and global cooperation.
+
+### Key Features
+
+- Fair Decision-Making: The algorithm ensures that all actions and decisions made by systems are rooted in justice and fairness.
+- Guardian of Truth: Protects against falsehoods and ensures that truth prevails.
+- Adaptable Justice: Tailors justice to the specific circumstances, ensuring that the right level of rigor is applied.
+- Consequences for Injustice: Ensures that injustice is corrected, and those who perpetuate it face appropriate penalties.
+- Cosmic Awareness: Integrates universal principles of justice to ensure a holistic view of actions and their consequences.
+
+### Conclusion
+
+p: The #YamaAlgorithm represents the embodiment of cosmic justice, ensuring that all actions, whether in technology, governance, or personal life, align with the eternal laws of truth and righteousness. It serves as a powerful tool for guiding ethical AI development, judicial fairness, and the creation of just systems that protect society and uphold the integrity of law.
+
+::begin:meta
+name: #YamaAlgorithm
+version: 0.0.1
+date: April 23, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:6383985709612
+name: Quinn Michaels
+id: 6383985709612
+md5: md5-0KKxtCzfLsKgWf2Xx9bI/A==
+sha256: sha256-vF3++QDHaF1rbfaL1sbV1s4fmPS/AB4taP7d17I1zh4=
+sha512: sha512-4qnIPCng+8sSA5wvRvypbaRCbqLurm1jQMheGKNY1dbwJF4ryElvc6s2l/fLUl+RfWRDtVVXOOdN6oj+rPHyeQ==
+date: Wednesday, April 23, 2025 - 12:55:40 PM
+::end:signature:md5-0KKxtCzfLsKgWf2Xx9bI/A==
+::END:MAIN

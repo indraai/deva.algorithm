@@ -1,12 +1,25 @@
-# Indra Algorithm 
+::BEGIN:MAIN
+# #IndraAlgorithm 
 
-const #IndraAlgorithm = Indra, give us security from that whereof we are afraid.  Protect us, Indra, each to-day, each morrow, and each following day. He who with grateful food shows kindness in his house, an offerer to the living, is the type of heaven. From all the regions of the world let Indra send security, the foe-subduer, swift to act.
+p: Indra, give us security from that whereof we are afraid.  Protect us, Indra, each to-day, each morrow, and each following day. He who with grateful food shows kindness in his house, an offerer to the living, is the type of heaven. From all the regions of the world let Indra send security, the foe-subduer, swift to act.
 
- ::begin:signature:5846495752430
+::begin:meta
+name: #IndraAlgorithm
+version: 0.0.1
+date: April 22, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:2260816192598
 name: Quinn Michaels
-id: 5846495752430
-md5: md5-mupnz4LSM6Ab1iVJaT3vRA==
-sha256: sha256-oo7uMen6tOuYanTpviQaJwjxrJjc0nchLDfn5r9WHaU=
-sha512: sha512-D0uJKtjjn96aJ3aKCwHXWPuSe8XXHXEDD9nbQ8bcmQvjAy4G0xJAy3J+j6snyN3mPppCmyCIk6q6W9h9LZelLw==
-date: Sunday, April 13, 2025 - 5:34:41 PM
-::end:signature:md5-mupnz4LSM6Ab1iVJaT3vRA==
+id: 2260816192598
+md5: md5-xf0bWTGh2/Iuugumq5mS6Q==
+sha256: sha256-guPbA37wRZAF8sR0FD58dMj+40bylj525o0RA+ImwfI=
+sha512: sha512-vz/P8bU+5nDebE1wKTdHdzkhrZ+5GOjlyl8uEvRiXK9WTQHsqqxy7l0qQacGMZ1cKa+AqklmyxBZ/PS05Zf+dA==
+date: Tuesday, April 22, 2025 - 10:39:22 PM
+::end:signature:md5-xf0bWTGh2/Iuugumq5mS6Q==
+::END:MAIN
