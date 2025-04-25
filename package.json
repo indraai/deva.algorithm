@@ -38,36 +38,36 @@
         "text": "Algorithm",
         "colors": {
           "label": {
-            "R": 248,
-            "G": 18,
-            "B": 19
+            "R": 194,
+            "G": 166,
+            "B": 128
           },
           "text": {
-            "R": 18,
-            "G": 94,
-            "B": 248
+            "R": 231,
+            "G": 225,
+            "B": 175
           }
         }
       },
       "profile": {
         "name": "#AlgorithmDeva",
         "title": "Algorithm Deva",
-        "subtitle": "Managing Deva.world algorithms.",
-        "describe": "Algorithm Deva is responsible for handling algorithms in Deva.world.",
-        "tweet": "Algorithm Deva is responsible for handling algorithms in Deva.world.",
+        "subtitle": "Expert in managing and optimizing algorithms",
+        "describe": "Your expert in managing and optimizing algorithms. With a mission is to leverage the power of algorithms to solve complex problems and enhance user experiences.",
+        "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AlgorithmDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
-        "style": "Smooth fluid algorithm designer.",
+        "style": "Smooth fluid algorithm expert.",
         "voice": "onyx",
         "system": "Deva.world.algorithm",
         "layout": "default",
-        "color": "rgb(255,255,255)",
-        "bgcolor": "rgb(0,0,0)",
-        "emoji": "/assets/devas/algorithm/emoji.png",
-        "avatar": "/assets/devas/algorithm/avatar.png",
-        "image": "/assets/devas/algorithm/image.png",
-        "background": "/assets/devas/algorithm/background.png",
+        "color": "rgb(231,225,175)",
+        "bgcolor": "rgb(43,25,15)",
+        "emoji": "https://indra.ai/assets/devas/algorithm/emoji.png",
+        "avatar": "https://indra.ai/assets/devas/algorithm/avatar.png",
+        "image": "https://indra.ai/assets/devas/algorithm/image.png",
+        "background": "https://indra.ai/assets/devas/algorithm/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
         "created": "February 7, 2025 at 8:02 PM"
