@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/algorithm",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.35"
+    "@indra.ai/deva": "^1.5.36"
   },
   "data": {
     "agent": {
@@ -50,10 +50,11 @@
         }
       },
       "profile": {
-        "name": "#AlgorithmDeva",
+        "name": "Algorithm Deva",
+        "tag": "#AlgorithmDeva",
         "title": "Algorithm Deva",
         "subtitle": "Expert in managing and optimizing algorithms",
-        "describe": "Your expert in managing and optimizing algorithms. With a mission is to leverage the power of algorithms to solve complex problems and enhance user experiences.",
+        "describe": "Expert in managing and optimizing algorithms that solve problems and enhance user experiences.",
         "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AlgorithmDeva",
         "pronouns": "He, Him",
@@ -64,10 +65,10 @@
         "layout": "default",
         "color": "rgb(231,225,175)",
         "bgcolor": "rgb(43,25,15)",
-        "emoji": "https://indra.ai/assets/devas/algorithm/emoji.png",
-        "avatar": "https://indra.ai/assets/devas/algorithm/avatar.png",
-        "image": "https://indra.ai/assets/devas/algorithm/image.png",
-        "background": "https://indra.ai/assets/devas/algorithm/background.png",
+        "emoji": "/assets/devas/algorithm/emoji.png",
+        "avatar": "/assets/devas/algorithm/avatar.png",
+        "image": "/assets/devas/algorithm/image.png",
+        "background": "/assets/devas/algorithm/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
         "created": "February 7, 2025 at 8:02 PM"

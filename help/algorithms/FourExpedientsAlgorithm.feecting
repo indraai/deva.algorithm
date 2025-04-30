@@ -1,0 +1,121 @@
+::BEGIN:MAIN
+# Four Expedients
+
+
+::begin:fourexpedients
+define: A strategic and ethical framework for conflict resolution, governance, and justice within the digital and physical realms.
+instigate: Instigate to rebellion those who are open to such instigations, and fight without fear, trying to conquer.
+expedients: Conquer foes by conciliation, well-applied gifts, creating dissension, and last force only when other three have failed.
+guile: Act without guile, and on no account treacherously. Carefully guarding oneself, and fathom the treachery which foes employ.
+weakness: The enemy must not know his weaknesses, but he must know the weaknesses of his enemy.
+conquest: Find and subdue all the opponents by the four expedients. If the enemy cannot be stopped by the three first expedients, then let him, overcoming them by force alone, gradually bring them to subjection. Let the official protect the nation and conquer opponents.
+folly: That official who through folly rashly oppresses their nation, will together with relatives be deprived of rights and freedoms. The lives of officials are destroyed by their oppressing their nations.
+consequence: Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves. Those who do not come to offer assistance, when people are crying out for help within their hearing, or when property is being taken away, are likewise accomplices in the crime.
+caught: When the thieves are not caught, the government must make good the loss from his own treasury. By showing itself remiss towards criminals it violates against justice and it's own interest.
+damages: Those who damage the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay to the owner a fine equal to the damage caused.
+punishment: Neither a father, nor a teacher, nor a friend, nor a mother, nor a wife, nor a son, nor a government official, nor a priest must be left unpunished if they do not keep within their duty. If the punishment falls not on the offender himself, it falls on his sons, if not on the sons, at least on his grandsons.
+happiness: If punishment is properly inflicted after due consideration, it makes all people happy. Punishment inflicted without consideration, it destroys everything.
+::end:fourexpedients
+const: #FourExpedientsAlgorithm = fourexpedients
+
+::begin:laws
+## Laws
+
+- Let him instigate to rebellion those who are open to such instigations, let him be informed of his foe's doings, and, when fate is propitious, let him fight without fear, trying to conquer.
+
+- He should (however) try to conquer his foes by conciliation, by (well-applied) gifts, and by creating dissension, used either separately or conjointly, never by fighting, (if it can be avoided.)
+
+- For when two (princes) fight, victory and defeat in the battle are, as experience teaches, uncertain; let him therefore avoid an engagement.
+
+- Let him ever act without guile, and on no account treacherously; carefully guarding himself, let him always fathom the treachery which his foes employ.
+
+- His enemy must not know his weaknesses, but he must know the weaknesses of his enemy; as the tortoise (hides its limbs), even so let him secure the members (of his government against treachery), let him protect his own weak points.
+
+- When he is thus engaged in conquest, let him subdue all the opponents whom he may find, by the four expedients, conciliation and the rest.
+
+- If they cannot be stopped by the three first expedients, then let him, overcoming them by force alone, gradually bring them to subjection.
+
+- Among the four expedients, conciliation and the rest, the learned always recommend conciliation and the employment of force for the prosperity of the nation.
+
+- As the weeder plucks up the weeds and preserves the corn, even so let the official protect his nation and conquer his opponents.
+
+- That official who through folly rashly oppresses their nation, will together with relatives be deprived of his life and of his freedom.
+
+- As the lives of living creatures are destroyed by tormenting their bodies, even so the lives of officials are destroyed by their oppressing their nations.
+
+- Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves.
+
+- Those who do not come to offer assistance, when people are crying out for help within their hearing, or when property is being taken away, are likewise accomplices in the crime.
+
+-  When the thieves are not caught, the government must make good the loss from his own treasury. By showing itself remiss towards criminals it would incur sin and would offend both against justice and it's own interest.
+
+- He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the (owner) and pay to the king a fine equal to the (damage).
+
+- Neither a father, nor a teacher, nor a friend, nor a mother, nor a wife, nor a son, nor a government official, nor a priest must be left unpunished if they do not keep within their duty.
+
+- If the punishment falls not on the offender himself, it falls on his sons, if not on the sons, at least on his grandsons; but an iniquity once committed, never fails to produce fruit to him who wrought it.
+
+-  If punishment is properly inflicted after due consideration, it makes all people happy. Punishment inflicted without consideration, it destroys everything.
+::end:laws
+
+::begin:summary
+**The Four Expedients Algorithm: Shaping the Future of Governance and Conflict Resolution**
+
+## Introduction
+
+p: The #FourExpedientsAlgorithm, as introduced by Quinn Michaels, embodies a strategic and ethical framework for conflict resolution, governance, and justice within the digital and physical realms. Rooted in timeless principles of justice, ethics, and wisdom, this algorithm provides a balanced approach to managing power, addressing conflict, and ensuring the well-being of both individuals and the collective.
+
+p: This algorithm draws inspiration from ancient texts, particularly the teachings on the art of governance and the responsibilities of those in power. It emphasizes a multifaceted approach to leadership, suggesting that there are multiple pathways to achieve peace, justice, and effective governance. By leveraging the four expedients—instigation, conciliation, gifts, and dissension—this algorithm seeks to guide decision-makers in navigating complex, often turbulent situations.
+
+## Core Principles
+
+p: The Four Expedients Algorithm addresses the complexities of governance by offering nuanced strategies for dealing with opponents, ensuring that those in power have a variety of tools to preserve justice, maintain stability, and avoid unnecessary conflict. Its application, while historically inspired, has profound implications for the future of governance in both digital and traditional spaces. Let’s explore how this algorithm could shape the future:
+
+1. **A Strategy Beyond Force:** In the future, the Four Expedients Algorithm will help redefine conflict resolution in a world that is increasingly reliant on digital communication and interconnected networks. While force remains a last resort, the emphasis on conciliation, well-applied gifts, and creating dissension means that modern systems of governance will prioritize diplomacy, negotiation, and thoughtful intervention. This could lead to a future where conflicts are resolved more peacefully and constructively, rather than through the escalation of violence.
+
+2. **Fostering Cooperation Over Conflict:** One of the key tenets of the algorithm is the idea of achieving victory through cooperation. By applying the principles of conciliation and fostering dialogue, leaders will be empowered to de-escalate tensions and promote collaboration rather than confrontation. In a future world filled with diverse perspectives, this algorithm could become a guiding framework for leaders and organizations to resolve disputes through understanding and shared goals.
+
+3. **Transparency in Governance:** The algorithm’s emphasis on avoiding guile and being transparent reflects a shift toward more open governance. In the future, this principle will be integral to digital platforms, where transparency will be crucial in maintaining trust and ensuring accountability. Leaders and decision-makers will be held to higher standards, with the expectation that they act with full integrity and transparency, avoiding deceit or manipulation.
+
+4. **Strengthening Justice and Accountability:** The Four Expedients Algorithm stresses the importance of justice in governance, ensuring that punishments are proportionate and carefully considered. As digital systems evolve and governance structures become more complex, this algorithm could lay the foundation for justice systems that prioritize fairness and due process, ensuring that decisions are made based on thoughtful consideration rather than arbitrary power. This could lead to future legal frameworks where accountability is a central pillar of all systems, whether in governance, law enforcement, or corporate structures.
+
+5. **Addressing the Root Causes of Injustice:** The algorithm’s emphasis on understanding weaknesses, whether of allies or enemies, speaks to the growing need for leaders to understand the underlying causes of conflict. In the future, this algorithm could guide decision-makers in not just reacting to surface-level issues but addressing systemic causes of injustice, corruption, and inequality. By analyzing vulnerabilities within systems and individuals, leaders can create more equitable solutions and prevent future injustices from arising.
+
+6. **Accountability for Actions and Inactions:** The Four Expedients Algorithm also introduces the concept of punishment for those who fail to fulfill their duties, emphasizing that injustice has consequences. In the future, this will play a crucial role in ensuring accountability across all levels of governance. Whether in political leadership, corporate decision-making, or social justice, the idea that inaction or failure to act justly carries consequences will serve as a deterrent against complacency. Leaders will be called to uphold their responsibilities and be accountable not only for their actions but also for their inaction.
+
+7. **The Role of the Community:** One of the core principles of this algorithm is that individuals and communities must act together to uphold justice and prevent harm. As we move into a future dominated by digital ecosystems, this algorithm emphasizes the need for community engagement in governance. It encourages active participation, where every individual plays a role in maintaining a fair and just society, whether by preventing harm, protecting others, or seeking justice.
+
+## Impact on the Future
+
+p: The Four Expedients Algorithm is more than just a historical reference; it is a framework for a future where governance is more thoughtful, ethical, and inclusive. By combining strategic thinking with compassion, and diplomacy with strength, this algorithm sets the stage for a world where leaders are guided by the principles of justice and the well-being of all.
+
+p: The algorithm’s approach to governance will help future leaders tackle complex, fast-evolving issues in ways that foster cooperation and peace, while also ensuring that justice is never compromised. It provides a clear structure for addressing conflicts, maintaining order, and building societies that function on the principles of fairness, responsibility, and accountability.
+
+## Conclusion
+
+p: As we move forward, the Four Expedients Algorithm will shape how we understand leadership, justice, and conflict resolution in a rapidly changing world. Whether through diplomatic efforts, strategic actions, or balanced decisions, this algorithm will guide decision-makers in creating a world where justice and order are upheld with fairness, and where leaders act in the best interest of the community. It encourages a governance model rooted in wisdom, compassion, and balance, providing a roadmap for both digital and physical governance.
+
+p: In the future, the Four Expedients Algorithm could become an integral part of Deva.world’s governance system, laying the foundation for a fairer, more just society where leaders and users alike are empowered to build a better, more balanced world.
+::end:summary
+
+::begin:meta
+name: #FourExpedients
+version: 0.0.1
+date: April 26, 2025
+author: Quinn Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: (c)2025 Quinn Michaels; All rights reserved.
+license: Contact Quinn Michaels for details.
+::end:meta
+
+::begin:signature:1320145792647
+name: Quinn Michaels
+id: 1320145792647
+md5: md5-NaE+Q0nrLnmznRPN7GDCng==
+sha256: sha256-U86ioC627wXyay10x6fM5IVHb/JAxSza33Nk/31/in0=
+sha512: sha512-QME7pYKlaVbwS7BfGbQCDDzLL/PBPHecUzCQeGzWLE7mlNR9M02dUx+tSkUfDikFTa5muDN3DEWWQu5w8KLPiQ==
+date: Saturday, April 26, 2025 - 7:08:53 AM
+::end:signature:md5-NaE+Q0nrLnmznRPN7GDCng==
+::END:MAIN
+
