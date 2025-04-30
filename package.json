@@ -4,7 +4,7 @@
   "version": "0.0.24",
   "author": "Quinn Michaels",
   "license": "MIT",
-  "copyright": "2025",
+  "copyright": "(c)2025 Quinn Michaels; All rights reserved.",
   "description": "The Algorithm Deva manages algorithms ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
