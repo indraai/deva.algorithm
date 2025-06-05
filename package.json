@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/algorithm",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.36"
+    "@indra.ai/deva": "^1.5.38"
   },
   "data": {
     "agent": {
@@ -51,7 +51,7 @@
       },
       "profile": {
         "name": "Algorithm Deva",
-        "tag": "#AlgorithmDeva",
+        "hashtag": "#AlgorithmDeva",
         "title": "Algorithm Deva",
         "subtitle": "Expert in managing and optimizing algorithms",
         "describe": "Expert in managing and optimizing algorithms that solve problems and enhance user experiences.",
