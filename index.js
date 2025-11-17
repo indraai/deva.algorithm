@@ -41,54 +41,57 @@ const ALGORITHM = new Deva({
   modules: {},
   deva: {},
   func: {
-    async aspect(opts) {
-      const estr = `aspect:${opts.type}:${opts.key}:${opts.packet.id.uid}`;
-      this.context(opts.key, opts.packet.id.uid);
-      this.action('func', estr);
-      
-      const {key, name, warning} = this.vars[opts.type][opts.key];
-      
-      this.vars.status = key;
-      this.vars.warning = warning;
-      this.state('await', estr);
-      const uid = await this.methods.uid(opts.packet);
-    
-      this.vars.status = false;
-      this.vars.warning = false;
-    
-      this.action('return', estr); // set action return
-      this.state('valid', estr);
-      this.intent('good', estr);
-      return uid;
-    },
+    get(opts) {      
+      const id = this.uid();
+      const {meta} = opts;
+      const {key, method, params} = meta;
+      const algo = params[1];
+      const {personal} = this.owner();
+      this.action('func', `get:${algo}:${id.uid}`);
 
-    async router(packet) {
-      const {id} = packet;
-      const key = packet.q.meta.params.pop();
-      this.context(type, `router:${key}:${id.uid}`);
-    
-      const estr = `router:${type}:${key}:${id.uid}`;
-      this.action('func', estr);
+      return new Promise((resolve, reject) => {
+        const ret = {} // return object
+        this.state('try',  `get:${algo}:${id.uid}`); // set state try
+        try {
+          const curAlgo = personal[algo];
+          
+          const text = [
+            `${this.box.begin}${key}:${`
+          ]
+          console.log('current algorithm', curAlgo);
+          ret.text = "algo text",
+          ret.html = false;
+          ret.data = curAlgo;
+        } 
+        catch (err) {
+          this.state('catch', `get:${id.uid}`); // set state catch
+          this.state('invalid', `get:${id.uid}`); // set state invalid
+          this.intent('bad', `get:${id.uid}`); // set intent bad
+          return this.err(err, packet, reject);
+        }
+        finally {
+          this.action('resolve', `get:${algo}:${id.uid}`); // set action resolve
+          this.state('valid', `get:${algo}${id.uid}`); // set state valid
+          this.intent('good', `get:${algo}:${id.uid}`); // set intent good
+          return resolve(ret);
+        }
+      });
       
-      this.state('data', `router:${type}:${key}:opts:${id.uid}`); // set state data
-      const opts = {key, type, packet};
       
-      this.action('return', `router:${type}:${key}:aspect:${id.uid}`); // set action return
-      this.state('await', `router:${type}:${key}:aspect:${id.uid}`); // set action return
-      return await this.func.aspect(opts);      
+      this.action('return', `algo:${algo}:${key}:${id.uid}`); // set action return
+      this.state('await', `algo:${algo}:${key}:${id.uid}`); // set action return
+      return true;      
     }
   },
   methods: {
     async algo(packet) {
       const {id, q} = packet;
-      const {meta, text} = q;
-      const {key, method, params} = meta;
+      const {key, method, params} = q.meta;
+      this.context(method, id.uid); // set context concept
+      this.action('method', `${method}:${id.uid}`);
       
-      console.log('q', q);
-      // this.context('algo', id.uid); // set context concept
-      // this.action('method', `algo:${id.uid}`);
-      // this.state('await', `algo:${id.uid}`);
-      // return await this.func.router(packet);
+      this.state('await', `algo:${id.uid}`);
+      return await this.func.get(packet.q);
     },
     
     menu(packet) {
