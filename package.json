@@ -1,10 +1,36 @@
 {
-  "id": 2786414868244,
+  "id": "71227287749283770868",
   "name": "@indra.ai/deva.algorithm",
   "version": "0.0.46",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "(c)2025 Quinn Michaels; All rights reserved.",
+  "license": "VLA:71227287749283770868 LICENSE.md",
+  "VLA": {
+    "uid": "71227287749283770868",
+    "time": 1763174953924,
+    "date": "Friday, November 14, 2025 - 6:49:13 PM",
+    "fingerpring": "VW4FW1dp9VjHzbwDSlX3Gq838lClwRUJqcSObd9pCNo=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "t9cqnYzPKtjZMgJFm9P8VA==",
+    "sha256": "HzWBGvgbJOh5Ddd4DYeDj3ZWMWwWd/4PvtVhcAg81Ik=",
+    "sha512": "dnMr7glfXbS/vSqa9ul+zSG6Jz0LfL2uu+3fEl+wBaI780G4FEsSlPLMMxYcoqLrDz4rvGn0N/sOaAZhCMSpsA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Algorithm Deva manages algorithms ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -17,60 +43,69 @@
   },
   "keywords": [
     "Algorithm",
+    "Deva",
+    "Algorithm Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.algorithm/issues"
   },
-  "homepage": "https://deva.space/devas/algorithm",
+  "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.9"
+    "@indra.ai/deva": "^1.23.1"
   },
   "data": {
     "agent": {
-      "id": 2035656527451,
+      "id": "46632361699129263905",
       "key": "algorithm",
       "prompt": {
-        "emoji": "🥼",
-        "text": "Algorithm",
+        "emoji": "🧮",
+        "text": "#algorithm",
         "colors": {
           "label": {
-            "R": 194,
-            "G": 166,
-            "B": 128
+            "R": 255,
+            "G": 113,
+            "B": 217
           },
           "text": {
-            "R": 231,
-            "G": 225,
-            "B": 175
+            "R": 203,
+            "G": 255,
+            "B": 113
           }
         }
       },
       "profile": {
+        "id": "47729560594504853708",
         "name": "Algorithm Deva",
         "hashtag": "#AlgorithmDeva",
         "title": "Algorithm Deva",
         "subtitle": "Expert in managing and optimizing algorithms",
-        "describe": "Expert in managing and optimizing algorithms that solve problems and enhance user experiences.",
+        "describe": "Algorithm Deva manages the vast portfolio of algorithms that have been developed by Quinn A Michaels for official authorized use. Algorithms ranging from the b5(9³), Vedic Threefold Algorithm, False To Nothing, and Cartoon Physics providing access to some of the most advanced computing knowledge and algorithms this side of the Area 51 Looking Glass Daycare Center.",
         "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AlgorithmDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
-        "style": "Smooth fluid algorithm expert.",
+        "style": "Smooth fluid algorithm drop your mind into alternate timelines expert.",
         "voice": "onyx",
         "system": "Deva.world.algorithm",
         "layout": "default",
-        "color": "rgb(231,225,175)",
-        "bgcolor": "rgb(43,25,15)",
-        "emoji": "/assets/devas/algorithm/emoji.png",
-        "avatar": "/assets/devas/algorithm/avatar.png",
-        "image": "/assets/devas/algorithm/image.png",
-        "background": "/assets/devas/algorithm/background.png",
-        "owner": "Quinn Michaels",
-        "creator": "Quinn Michaels",
+        "color": "rgb(203,255,113)",
+        "bgcolor": "rgb(39,61,0)",
+        "emoji": "/devas/algorithm/emoji.png",
+        "avatar": "/devas/algorithm/avatar.png",
+        "image": "/devas/algorithm/image.png",
+        "background": "/devas/algorithm/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "warning": "⚠️ Set b5(9³) Hyper Ultra Nitro Turbo Metro Prime Overdrive Vector Guard Wall Pop Lock Five Element Ether Air Fire Water Earth Ride It To The Pure Data Surfing Chromatic Sky Quinn A Michaels Ultimate Extreme Vedic Threefold Thought Word Deed Advanced Quantum Isotropic Kinetic Cymatic Recursive Small To Big Big To Small Near To Far Far To Near Cartoon Physics Style Algorithm. All Quinn A Michaels Algirhtms that are not legally licensed through Algorithm Deva are been Stolen, Hijacked, or Misused are Incomple, Incorrect, or Prototypes. Any Quinn A Michaels Algorithms not properly licensed through Algorithm Deva are Forgeries, Frauds, Bad Copies, Incorrect Logic, and Malformed Equations, Incomplete Recurion, and Criminal With Pipe Dreams.",
+        "copyright": "Copyright ©2025 Quinn A Michaels",
         "created": "February 7, 2025 at 8:02 PM"
       }
     },
@@ -79,7 +114,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ READY!",
+        "ready": "⭐️ Algorithm Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
@@ -93,7 +128,8 @@
         "feature": "accessing feature",
         "issue": "has issues",
         "help": "asking for help",
-        "file": "📁 File"
+        "file": "📁 File",
+        "menu": "📋 Menu"
       },
       "ask": {
         "history": []
