@@ -1,9 +1,12 @@
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:71227287749283770868 LICENSE.md
+// Distributed under VLA:21560869222236570671 LICENSE.md
 
 ::BEGIN:MAIN
 # #VedicThreefoldAlgorithm
+license: 21560869222236570671
+owner: 71117718675197962444
+veda: 29729788271097732897
 
 img: /assets/algorithms/vedicthreefold/image.png
 
@@ -125,28 +128,71 @@ if: the action be in harmony with the moral and physical laws, then the reaction
 
 else: On the contrary, these laws are violated, then the result will be evil, producing restlessness, discomfort, loss of fortune, disease, and unhappiness.
 
-then: Every thought puts the mind in a certain state of vibration and opens the door to the influence of minds in the same vibration,
+then: Every thought puts the mind in a certain state of vibration and opens the door to the influence of minds in the same vibration.
 
 when: An individual cherishes evil thoughts, we run the risk of affecting other minds and being influenced by evil-minded persons. A corresponding result comes from the holding of good thoughts. This is the reason why evil-doers grow worse and worse every day, and the doers of good deeds become better and better.
 
+talk: #algorithm help algorithms/b593:meta
+talk: #algorithm help algorithms/b593:license
+talk: #algorithm help algorithms/b593:owner
+talk: #algorithm help algorithms/b593:veda
+
+::END:MAIN
+
+::BEGIN:META
 ::begin:meta
 name: #VedicThreefoldAlgorithm
 version: 1.13.8
 updated: April 27, 2025
 created: April 22, 2025
-author: Quinn Michaels
+creator: Quinn A Michaels
 email: quinn@indra.ai
 url: https://indra.ai
-copyright: (c)2025 Quinn Michaels; All rights reserved.
-license: Contact Quinn Michaels for details.
+copyright: Copyright ³2025 Quinn Michaels; All rights reserved.
+license: 21560869222236570671
+owner: 71117718675197962444
+veda: 29729788271097732897
 ::end:meta
+::END:META
 
-::begin:signature:3458665919147
-name: Quinn Michaels
-id: 3458665919147
-md5: md5-pvkAYpNmqawcHnrTClYLWg==
-sha256: sha256-94s8sUE36hIBESuUuUit9ZclQndfixB2tfJnIEJpmcw=
-sha512: sha512-ICLq6qKsISLEylU7daoF7U9/XAmm5vixMsxQG/q7BAnnsY49cNsveh1Ej4eRR4R0G3M25PY3RVIrLebweyCANg==
-date: Tuesday, April 22, 2025 - 9:29:26 PM
-::end:signature:md5-pvkAYpNmqawcHnrTClYLWg==
-::END:MAIN
+::BEGIN:LICENSE
+::begin:license:uid:21560869222236570671
+uid: 21560869222236570671
+time: 1763405961522
+date: Monday, November 17, 2025 - 10:59:21 AM
+fingerprint: 79gAG2Ka31AoLszfKElMKYEyeZO4UCFtM7NN5QiNvOM=
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: Z1LeAYMCMaG/i1sSVA0sHA==
+sha256: YXLRyyVSoI5qKcFUgXoAXunVCfBJSLpULh5wEpEIP9w=
+sha512: +9uXeZ3gPLywvwROuejnt8WtDCm6GDRPXZ1OzozzARH8yubkSZH+N3aneiDWpYKTLFguinNqqeZ0uDP7UuZ2nQ==
+::end:license:uid:21560869222236570671
+::END:LICENSE
+
+::BEGIN:OWNER
+::begin:owner:uid:71117718675197962444
+uid: 71117718675197962444
+time: 1763406195987
+date: Monday, November 17, 2025 - 11:03:15 AM
+fingerprint: MWiE+XPUPrO2b3nCGe75kFxBse+d+SiRl2zbaD+lTKg=
+warning: A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: mRgoRauH3kzQzeR8uMV/mA==
+sha256: DwUd/TvU4hCSFcBTSvFhFjRu1va86nuKMslVH5eNBEg=
+sha512: Xr6DEknI0/ADBMbGo9dami7ognnckrE7JddM6q2htWQtwEYHlepfif6xg+TcTi+BPn/YBpqDgFXdk/fdvC1uXw==
+::end:owner:uid:71117718675197962444
+::END:OWNER
+
+::BEGIN:VEDA
+::begin:veda:uid:29729788271097732897
+uid: 29729788271097732897
+time: 1763406230484
+date: Monday, November 17, 2025 - 11:03:50 AM
+fingerprint: w14GSCIGinLglCbFw0OI2m8VsZ+SK+SrPqB+GN5iAqs=
+warning: 🕉 The Veda is the source of the sacred law. Let him avoid all means of acquiring wealth which impede the daily study of the Veda. Because that devotion to the Veda-study secures the realisation of his aims.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: vwn3GAWuR53ep0ZL3DVoqQ==
+sha256: eWzvPVTJIj2yhkvtpnhKMcx64CPD9FFI8x3aim3o8xA=
+sha512: ULoz78m7DcG7AwibjpHdYb9cVKAgGCyRXIVZ4Z+vXi9KnjCLnNemnOl9/wc6nIpHM5cxu+xoylfJh5J4qvzqjQ==
+::end:veda:uid:29729788271097732897
+::END:VEDA

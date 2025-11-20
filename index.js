@@ -56,10 +56,26 @@ const ALGORITHM = new Deva({
           const curAlgo = personal[algo];
           
           const text = [
-            `${this.box.begin}${key}:${`
-          ]
-          console.log('current algorithm', curAlgo);
-          ret.text = "algo text",
+            `${this.box.begin}:${key}:${algo}:${id.uid}`,
+            `license: ${curAlgo.id}`,
+            `key: #${curAlgo.key}`,
+            `name: ${curAlgo.name}`,
+            `help: ${curAlgo.help}`,
+            `describe: ${curAlgo.describe}`,
+            `===`,
+            `uid: ${id.uid}`,
+            `time: ${id.time}`,
+            `date: ${id.date}`,
+            `warning: ${id.warning}`,
+            `fingerprint: ${id.fingerprint}`,
+            `md5: ${id.md5}`,
+            `sha256: ${id.sha256}`,
+            `sha512: ${id.sha512}`,
+            `copyright: ${curAlgo.copyright}`,
+            `${this.box.end}:${key}:${algo}:${id.uid}`,
+          ].join('\n');
+          
+          ret.text = text,
           ret.html = false;
           ret.data = curAlgo;
         } 
@@ -67,7 +83,7 @@ const ALGORITHM = new Deva({
           this.state('catch', `get:${id.uid}`); // set state catch
           this.state('invalid', `get:${id.uid}`); // set state invalid
           this.intent('bad', `get:${id.uid}`); // set intent bad
-          return this.err(err, packet, reject);
+          return this.err(err, opts, reject);
         }
         finally {
           this.action('resolve', `get:${algo}:${id.uid}`); // set action resolve

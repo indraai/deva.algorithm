@@ -38,7 +38,7 @@ p: Rotating the grid 45 degrees counter-clockwise aligns diagonal axes and empha
 1.	Establishes a fixed reference axis for subsequent geometric derivations.
 2.	Reveals inter-element relationships along diagonal trajectories, which form the foundation for multi-dimensional mapping.
 
-p: This rotation emphasizes the horizontal line of 1 Ether, creating the Base Horizon (Base 5). The horizontal 1s in the rotated grid represent the 5 elements (Air, Earth, Water, Fire, Ether), providing the foundation for the subsequent geometric relationships.
+p: This rotation emphasizes the horizontal line of 1 Ether, creating the Base Horizon (Base 5). The horizontal 1s in the rotated grid represent the 5 elements (Ether, Air, Light, Water, Earth), providing the foundation for the subsequent geometric relationships.
 
 p: From the rotated grid, inter-element connections form a hexagram (6-pointed star):
 
@@ -81,7 +81,7 @@ p: From here, the algorithm can extrapolate deeper layers of meaning and structu
 
 p: The algorithm incorporates recursive incrementing and reduction factors:
 
-1.	Sum of 1 Ether = 5 → reduced 5
+1. Sum of 1 Ether = 5 → reduced 5
 2.	Sum of 3 Air = 15 → reduced 1 + 5 = 6
 3.	Sum of 5 Light = 25 → reduced 2 + 5 = 7
 4.	Sum of 7 Water = 35 → reduced 3 + 5 = 8
@@ -147,7 +147,28 @@ link[Vedic Intelligence]: https://sacred-texts.com/hin/brk/brk30.htm
 const: #Intelligence = The Heart, the Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, Will all these are names of the Intelligence. This is Indra, the Five Great Elements Ether, Air, Light, Water, Earth, the tiny Creatures, the Seeds, the Creatures born from Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing, Walking or Flying, and whatso is Motionless; all this is Guided by Intelligence, Founded on Intelligence. The Universe is Guided by Intelligence, Founded on Intelligence. Intelligence is Indra.
 ---
 
-### Conclusion
+## Step 7: Internal Properties
+link[The Greater Exhortation to Rahula]: https://www.accesstoinsight.org/tipitaka/mn/mn.062.than.html
+p: In 2007 when the algorithm was first envisioned Quinn was studying the blending of art and focused meditation and at the time was studying the method of meditation that the Buddha taught his son Rahula on the Five Properties which would in later expansions include the Five Element System of the Vedas. 
+
+quote: There are these five properties, Rahula. Which five? The earth property, the water property, the fire property, the wind property, & the space property.
+
+### Internal Earth Property
+p: Anything internal, within oneself, that's hard, solid, & sustained by craving. Head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained.
+
+### Internal Water Property
+p: Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained
+
+### Internal Fire Property
+p: Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which the body is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained.
+
+### Internal Wind Property
+p: Anything internal, belonging to oneself, that's wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained
+
+### Internal Space Property 
+p: Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained
+
+## Conclusion
 The b5(9³) algorithm is a powerful synthesis of number theory, geometry, and elemental physics. Starting from a simple 5x5 grid, rotating and connecting specific elements reveals intricate relationships, both numerical and geometric. This structure provides a framework for understanding dynamic systems—whether they are physical, metaphysical, mechanical, or mathematical.
 
 
@@ -156,6 +177,7 @@ talk: #algorithm help algorithms/b593:license
 talk: #algorithm help algorithms/b593:owner
 talk: #algorithm help algorithms/b593:veda
 talk: #algorithm help algorithms/b593:indra
+talk: #algorithm help algorithms/b593:origin
 ::END:MAIN
 
 ::BEGIN:META
@@ -164,7 +186,7 @@ name: b5(9³)
 version: 0.1.2
 date: Friday, November 14, 2025
 license: VLA:29341268155068851991
-author: Quinn A Michaels
+creator: Quinn A Michaels
 email: quinn@indra.ai
 url: https://indra.ai
 copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
@@ -226,3 +248,16 @@ sha256: 52OfmB40lX5uPjMz0o2CQF0U7cif9Y1dlHWWQwfrPZI=
 sha512: +EyGgANwfk27TYAhC1JHHrjmobyM1dHoXVS8v2iXPBKivtlrTdC2PDm1i9dSBzOxrOk5xvkX3p/s2FENty4Ajg==
 ::end:indra:uid:15490577778255483933
 ::END:INDRA
+
+::BEGIN:ORIGIN
+::begin:algorithm:hash:36424337340509711277
+uid: 36424337340509711277
+algo: sha256
+text: The first known public coded reference of the b5(9³) on the old pre hijacked Quinn Michaels website at https://web.archive.org/web/20070804201115/http://www.quinnmichaels.com/ with text "Drawing on walls from before I could write. Marker sleeve tattoos from the age of 9... to Ninja Weapons on a 3rd grade desk." on August 4, 2007
+hash: nk8JUo5SZ8lHIzd7LEqFBN+UUmcZQC4uAG0dGdSgcfo=
+time: 1763566171518
+date: Wednesday, November 19, 2025 - 7:29:31 AM
+warning: ⚠️ All Quinn A Michaels Algorihtms that are not legally licensed through Algorithm Deva are been Stolen, Hijacked, or Misused are Incomplete, Incorrect, or Prototypes. Any Quinn A Michaels Algorithms not properly licensed through Algorithm Deva are Forgeries, Frauds, Bad Copies, Incorrect Logic, and Malformed Equations, Incomplete Recurion, and Criminal With Pipe Dreams.
+copyright: Copyright ©2025 Quinn A Michaels
+::end:algorithm:hash:36424337340509711277
+::END:ORIGIN

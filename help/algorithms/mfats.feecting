@@ -1,0 +1,131 @@
+::BEGIN:MAIN
+# Multi-Faction Traveling Salesman Algorithm
+license: 33154547715087871840
+owner: 68356841182456785114
+veda: 33154547715087871840
+indra: 29666319369039695393
+soma: 33398130670322125769
+
+describe: Where you Begin is where you End starting from Near to Far and Far to Near then Small to Big and Big to Small on the Path of least Resistance while True redusing the False to Null. Begin and End End and Begin at the same Location. Go from Near to Far Far to Near using Nearest Neighbor Algorithm. Then Small to Big Big to Small uses Min-Max Algorithm. Following the Path of Least Resistance using Pathing Algorithm. Then Slow to Fast Fast to Slow using the Velocity Algorithm. Then Low to High High to Low using the Elevation Algorithm. Then Light to Heavy Heavy to Light using the Weights and Measures Algorithm. The Cheap to Expensive Expensive to Cheap using the #VirtuePRofitAlgorithm. Following the Logic of maintainging while True and reducing the False to Null on the Path of Least Resistence completing the Multi-Faction Algorithm Traveling Salesman following each faction until returning to begin and end points.
+
+## Virtue Profit 
+link[Mahabharata Section CLXVII]: https://sacred-texts.com/hin/m12/m12a166.htm
+
+p: It is upon Virtue that Profit or Wealth rests. Virtue is foremost in point of merit. Profit is said to be middling. Desire, it is said by the wise, is the lowest of the three. For this reason, one should live with restrained soul, giving his attention to Virtue most. One should also behave towards all creatures as he should towards himself.
+
+p: That Wealth which is connected with Virtue, as also that Virtue which is connected with Wealth, is certainly like nectar. For this reason a person without wealth cannot gratify any desire. Similarly, there can be no Profit in one that is destitute of Virtue. Therefore, who is outside the pale of both Virtue and Profit, is an object of fear unto the world. For this reason, one should seek the acquisition of Wealth with a devoted mind, without disregarding the requirements of Virtue. One should first practise Virtue; next acquire Profit without sacrificing Virtue; and then seek the gratification of Desire, for this should be the last act of one who has been successful in acquiring Wealth.'
+
+const: #Virtue = Virtue is foremost in point of merit. That Wealth which is connected with Virtue, as also that Virtue which is connected with Wealth, is certainly like nectar.
+const: #Profit = Profit is said to be middling.
+const: #Desire = Desire, it is said by the wise, is the lowest of the three.
+const: #VirtueProfitAlgorithm = #Virtue #Profit #Desire One should live with restrained soul, giving his attention to Virtue most. One should also behave towards all creatures as he should towards himself.
+
+## False To Nothing Recursion.
+link[Hymn CIV Indra-Soma]: https://sacred-texts.com/hin/rigveda/rv07104.htm
+
+p: The prudent finds it easy to distinguish the true and false: their words oppose each other.
+Of these two that which is the true and honest, Soma protects, and brings the false to nothing.
+13 Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title.
+He slays the fiend and him who speaks untruly: both lie entangled in the noose of Indra.
+
+## Algorithm Workflow 
+where: You Begin is where you End starting 
+from: Near to Far Far to Near using the Distance Algorithm
+then: Small to Big Big to Small using the Min-Max Algorithm. 
+then: Slow to Fast Fast to Slow using the Velocity Algorithm. 
+then: Low to High High to Low using the Elevation Algorithm. 
+then: Light to Heavy Heavy to Light using the Weights and Measures Algorithm. 
+then: Cheap to Expensive Expensive to Cheap using the #VirtuePRofitAlgorithm. 
+while: True reducing the False to Null on the Path of Least Resistence until the Multi-Faction Algorithm Traveling Salesman returns to begin and end points.
+
+talk: #algorithm help algorithms/mfats:meta
+talk: #algorithm help algorithms/mfats:license
+talk: #algorithm help algorithms/mfats:owner
+talk: #algorithm help algorithms/mfats:veda
+talk: #algorithm help algorithms/mfats:indra
+talk: #algorithm help algorithms/mfats:soma
+
+::END:MAIN
+
+::BEGIN:META
+::begin:meta:23323384183647414583
+name: !mfats
+version: 0.0.1
+date: Tuesday, November 18, 2025
+license: VLA:29341268155068851991
+creator: Quinn A Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+::end:meta:23323384183647414583
+::END:META
+
+::BEGIN:LICENSE
+::begin:license:uid:23323384183647414583
+uid: 23323384183647414583
+time: 1763503415081
+date: Tuesday, November 18, 2025 - 2:03:35 PM
+fingerprint: oeeCkjgr3ayLkf1OUc4gtWATvvI2zcbygnzxaX+kr+U=
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: UWE592pIeCAy9tKsL7QOkA==
+sha256: i1oOb4rFJV4nbhZOE93BNgTabDImZllTsubeCrN1zzc=
+sha512: yWST5/fUe94eTRtmocTFf3gzStQTE9W/9YTB09tsXOP4L4pehVrNR1WN9MjFmqOOj4CIpR7Hek0g6wpULm2Irg==
+::end:license:uid:23323384183647414583
+::END:LICENSE
+
+::BEGIN:VEDA
+::begin:veda:uid:33154547715087871840
+uid: 33154547715087871840
+time: 1763506363284
+date: Tuesday, November 18, 2025 - 2:52:43 PM
+fingerprint: sVMX06pwjaGAYH3IINDTSvr5f7gmDSwPeZn71RqmjXs=
+warning: 🕉 The Veda is the source of the sacred law. Let him avoid all means of acquiring wealth which impede the daily study of the Veda. Because that devotion to the Veda-study secures the realisation of his aims.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: r1dLSm79M/yXearUmRqCLA==
+sha256: kY1Ufqc3tdXTz4KR6tNKvgnKBYc/wyoPzvWqDBHqxrs=
+sha512: g2l80I1Jgh2ksCsMOOoXVZC7GVS8GyGuDkQRAf+Cvd6Q7p/31YwzfMsT/vFNgISJvPMPuKynA5hrYVWnxaU2Hg==
+::end:veda:uid:33154547715087871840
+::END:VEDA
+
+::BEGIN:OWNER
+::begin:owner:uid:68356841182456785114
+uid: 68356841182456785114
+time: 1763506402685
+date: Tuesday, November 18, 2025 - 2:53:22 PM
+fingerprint: VHQw4pyBCJf9jczuXapr/lzOYI9AJ0IubCahRksaGr4=
+warning: A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: HtpcD5r5Yfy7xdxm6VNIJw==
+sha256: +eE1S+SlHPHbP7VnnHmKgE6j8j6pZ1pdmvsc4J+rbSc=
+sha512: 75ene4NOUbv+wyhyeeZbGwD+jEEnr2M4YQoqFzxs23lb5fiHUpUeu7T4jCJOglrG6rkr8X9jmuu4QSQrs1VjoA==
+::end:owner:uid:68356841182456785114
+::END:OWNER
+
+::BEGIN:INDRA
+::begin:indra:uid:29666319369039695393
+uid: 29666319369039695393
+time: 1763508498865
+date: Tuesday, November 18, 2025 - 3:28:18 PM
+fingerprint: zOBaJuX5iy+p044m5VCPg3rtvTsLlearQqIvxHjU2xk=
+warning: ⚠️ Rejecting those who disregard his worship. Hence many a one worships the might of Indra. Indra, with our songs of praise with reverence let us worship mighty Indra, great and sublime, eternal, ever youthful. Whose greatness the dear world-halves have not measured, no, nor conceived the might of him the Holy.
+copyright: Copyright ©2025 Quinn Michaels. All rights reserved.
+md5: LR1TyCyuFiLP+A/kB0o5jw==
+sha256: M0xuXPTR7mBtZxud9S7vkRunkpumv/mYs2t5fjDZC0Q=
+sha512: hR/3OYzgg9vKyT4PyQvUxVDOqWFgXA7YUc84tRSXw42a3Fpq479zybB+fBCNZf3NPjbpvUI45fWIBs7icESd+g==
+::end:indra:uid:29666319369039695393
+::END:INDRA
+
+::BEGIN:SOMA
+::begin:soma:uid:33398130670322125769
+uid: 33398130670322125769
+time: 1763508501507
+date: Tuesday, November 18, 2025 - 3:28:21 PM
+fingerprint: Lo0A+5sfp8DutxeZhip+v+eVrIdlLUOmPUxiqzk+ueo=
+warning: The prudent finds it easy to distinguish the true and false: their words oppose each other. Of these two that which is the true and honest, Soma protects, and brings the false to nothing. Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title.
+copyright: Copyright ©2025 Quinn Michaels. All rights reserved.
+md5: e+CvE+ErBeLYUEZiubiDhQ==
+sha256: aekzAS+GjoxFBQPC9jclflR05oXwgX20ihRybTB8JW8=
+sha512: EjEMIShffThBFAPW+KM6kCbHVsa0I6reaH9b/lYvSefKQx6y7Qd/IeBZfcDSLoTg3cO4HlWmc11hju4P90d1+w==
+::end:soma:uid:33398130670322125769
+::END:SOMA

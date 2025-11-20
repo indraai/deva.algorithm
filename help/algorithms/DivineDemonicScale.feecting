@@ -1,12 +1,15 @@
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:71227287749283770868 LICENSE.md
+// Distributed under VLA:62200738619221306946 LICENSE.md
 
 ::BEGIN:MAIN
 # #DivineDemonicScale
+license: 62200738619221306946
+owner: 64360205229853921185
+veda: 59654820016166476954
 
 ::begin:devinedemonicscale
-define: There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then fit somewhere between.
+define: There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic based on alignment of Thought, Word, and Deed.
 divine: Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, absence of anger, equanimity, compassion, freedom from greed, gentle, modest, and absence of pride are some divine qualities.
 demonic: Hypocrisy, arrogance, pride, anger, harshness, and ignorance. Do not know what to do and what not to do. Neither have purity nor good conduct nor truthfulness. Filled with insatiable desires, hypocrisy, pride, and arrogance. Holding wrong views due to delusion, and they act with impure motives.
 ::end:devinedemonicscale
@@ -67,7 +70,15 @@ p: The #DivineDemonicScale offers a tool for self-reflection, encouraging indivi
 
 p: The #DivineDemonicScale provides a powerful framework for evaluating personal growth, moral development, and spiritual alignment. By understanding the qualities that characterize both the divine and the demonic, individuals can better navigate their path toward self-improvement, making conscious efforts to align more with divine wisdom, peace, and compassion while moving away from ignorance, pride, and destructive behaviors. Through this scale, we are reminded that growth is a continuous journey, with the potential for transformation always within reach.
 
-::begin:meta
+
+talk: #algorithm help algorithms/DivineDemonicScale:meta
+talk: #algorithm help algorithms/DivineDemonicScale:license
+talk: #algorithm help algorithms/DivineDemonicScale:owner
+talk: #algorithm help algorithms/DivineDemonicScale:veda
+::END:MAIN
+
+::BEGIN:META
+::begin:meta:62200738619221306946
 name: #DivineDemonicScale
 version: 0.0.1
 date: April 22, 2025
@@ -75,15 +86,49 @@ author: Quinn Michaels
 email: quinn@indra.ai
 url: https://indra.ai
 copyright: (c)2025 Quinn Michaels; All rights reserved.
-license: Contact Quinn Michaels for details.
-::end:meta
+license: 62200738619221306946
+owner: 64360205229853921185
+veda: 59654820016166476954
+::end:meta:62200738619221306946
+::END:META
+::BEGIN:LICENSE
+::begin:license:uid:62200738619221306946
+uid: 62200738619221306946
+time: 1763412439752
+date: Monday, November 17, 2025 - 12:47:19 PM
+fingerprint: 7xR0povmutDREzgJTibL52iCP04ttI5uAhx1z5Kqejs=
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: yETjid95ly3aag+CQyNgxg==
+sha256: 89Xo3PD27C2y0OScW9AHxXKiwk35flgddma/GBopC4M=
+sha512: ZgQtXcsqNJvXNQmN9TOF0G6yX9slyK5fTzocFMzxS+PkDFh+hEQOs/GicAlpLT8CURlyea2ahJDnYZIji2BmCA==
+::end:license:uid:62200738619221306946
+::END:LICENSE
 
-::begin:signature:3386390460519
-name: Quinn Michaels
-id: 3386390460519
-md5: md5-ZBXazWPh86v1q0TJl91zMw==
-sha256: sha256-Xfa9kpSW7+LRxJkLbRJwkrPyndZ/oX75R3Pvn0B7DE0=
-sha512: sha512-7K6xKSxZvsEZE32l+ZHVpwLZ8n+Chcb0y4BXsahsE6ASnThb01AEuvTORFDt0BHZdrLywBHw21AFwEgikHM0HA==
-date: Tuesday, April 22, 2025 - 9:24:03 PM
-::end:signature:md5-ZBXazWPh86v1q0TJl91zMw==
-::END:MAIN
+::BEGIN:OWNER
+::begin:owner:uid:64360205229853921185
+uid: 64360205229853921185
+time: 1763412473805
+date: Monday, November 17, 2025 - 12:47:53 PM
+fingerprint: JV/5/FPRYA7XaHmRQFLOny/Y3MAYxadEqew/lD87sJg=
+warning: A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: VnAyqHqN+y1TsCW9Wsx/zA==
+sha256: z4A59dwWACndv1tw9MMWUgBvq+AZt6Oq3S5lZxXugb4=
+sha512: GschKMfMa6t0mU/ucXlXVR9tgEnYPTbOWcw3ElAnP5pR2YcTsqDbt5nsIgXwDXEiWngmKRPVhMt86veUtnroug==
+::end:owner:uid:64360205229853921185
+::END:OWNER
+
+::BEGIN:VEDA
+::begin:veda:uid:59654820016166476954
+uid: 59654820016166476954
+time: 1763412768255
+date: Monday, November 17, 2025 - 12:52:48 PM
+fingerprint: 6boM4tqXx4Mq4aGoUqxadVkuyqJCA6+Aty98w95mqQc=
+warning: 🕉 The Veda is the source of the sacred law. Let him avoid all means of acquiring wealth which impede the daily study of the Veda. Because that devotion to the Veda-study secures the realisation of his aims.
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.
+md5: hOUOGrY5+fi+YEVsdhM0tw==
+sha256: Ak6rZR8U0CIc4Q9PZIoRmTgfYJMQ/CsF/fWx207SxZo=
+sha512: BeIm6HWjBxIRisErENeeGzDfK8/496E7foMZzCqT1IRbmOE5i3RBn/ZZMjra18PnkII6wWjWvKhtwUVh7CDPmg==
+::end:veda:uid:59654820016166476954
+::END:VEDA
