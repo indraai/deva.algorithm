@@ -59,7 +59,7 @@
   },
   "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.30.2"
   },
   "data": {
     "agent": {
@@ -105,7 +105,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "warning": "⚠️ All Quinn A Michaels Algorihtms that are not legally licensed through Algorithm Deva are been Stolen, Hijacked, or Misused are Incomplete, Incorrect, or Prototypes. Any Quinn A Michaels Algorithms not properly licensed through Algorithm Deva are Forgeries, Frauds, Bad Copies, Incorrect Logic, and Malformed Equations, Incomplete Recurion, and Criminal With Pipe Dreams.",
-        "copyright": "Copyright ©2025 Quinn A Michaels",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels",
         "created": "February 7, 2025 at 8:02 PM"
       }
     },
@@ -114,7 +114,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Algorithm Deva Ready",
+        "ready": "🧮 Algorithm Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

@@ -28,7 +28,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const ALGORITHM = new Deva({
+const AlgorithmDeva = new Deva({
   info,
   agent,
   vars,
@@ -39,7 +39,7 @@ const ALGORITHM = new Deva({
   },
   listeners: {},
   modules: {},
-  deva: {},
+  devas: {},
   func: {
     get(opts) {      
       const id = this.uid();
@@ -159,4 +159,4 @@ const ALGORITHM = new Deva({
     return reject(err);
   }
 });
-export default ALGORITHM
+export default AlgorithmDeva

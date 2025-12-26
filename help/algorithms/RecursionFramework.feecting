@@ -1,0 +1,293 @@
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:47576293747852770489 LICENSE.md
+
+::BEGIN:MAIN
+## Dynamic Recursion Decision Framework
+algorithm: a=x+id=y+d=z
+where (a) is the action to take 
+and (id) is the key in the action
+and (d) is the decision to make against the key of the action.
+
+---
+
+p: Url samples to show the progression fo the a=x + id=y recursion algorithm over the years...
+## docSilo Framework
+### November 30, 2001 
+p: Quinn A Michaels is working with Advanced Digital Technology, Inc. on the docSilo Document Management Application that in November 2001 an early version of the framework can be seen as adt=x + service=y where adt is a=x and service is id=y.
+
+link[Advanced Digital Technology November 2001]: https://web.archive.org/web/20011130153419/http://www.advdigitech.com/
+link[ADT Home]: https://web.archive.org/web/20011130153419/http://www.advdigitech.com/default.cfm?adt=home
+link[ADT Services]: https://web.archive.org/web/20011130153419/http://www.advdigitech.com/default.cfm?adt=services
+link[ADT Services docSilo]: https://web.archive.org/web/20011204182911/http://www.advdigitech.com/default.cfm?adt=services&service=1
+
+## Inside The Net itnContent
+
+## itnContent Delivery Framework
+### May 30, 2002
+link[2002 itnContent]: https://web.archive.org/web/20020530175721/http://insidethenet.net/
+link[2002 itnContent Portfolio]: https://web.archive.org/web/20020408212725fw_/http://insidethenet.net/content.cfm?a=portfolio
+
+## Quinn Michaels 2004 
+link[Quinn Michaels 2004 Web Archive]: https://web.archive.org/web/20040101132921/http://www.quinnmichaels.com/
+
+p: The link below shows the early structure of the Artist Mind section of the site that was an early blog in 2004 that used the a=x+id=y pattern with a uuid for the time.
+
+### January 1, 2004 Archive
+link[Quinn Michaels 2004 Web Archive]: https://web.archive.org/web/20040101132921/http://www.quinnmichaels.com/artistmind.cfm?a=view&id=3F15A06E-9C73-46F6-B3E9095E6572B935
+
+# Quinn A Michaels Dynmaic Recursion Decision Framework
+p: The below code is an example of the basic Quinn A Michaels Inside The Net, Inc. Throwing Pigment bleuBrian Indra.ai Deva Core a=x Recursion Decision Framework that is the basis of it all. In this example we see how the base loop uses the a=x to trigger the id=y recursionFunc then the recursionFunc to determine the object and parents if exists from that resulting in the decisionFunc running the algorithm of Decision once the Recusion reduces to it's end point...
+
+p: Quinn A Michaels Dynamic Recursion Decision Framework after adding the try, catch, and finally to the main x loop and the try, catch, and finally is also added into the recursionFunc and the parents array is updated to a object instead of a index list so that way each parent can contain a custom role and tags so the whole recusion then expands multi-dimensional recursive structure that support dynmaic custom contextual relationships between parent and child nodes... 
+
+
+::begin:example
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved.
+// define the base object where values are currently to demonstrate simplicity.
+object: TheData {
+	item1: {
+		id: '52466799238365086843',
+		key: 'item1',
+		name: 'Item 1',
+		parents: false,
+		created: 'Monday, November 24, 2025 - 12:27:12 PM',
+	},
+	item2: {
+		id: '39107536616014628963',
+		key: 'item2',
+		name: 'Item 2',
+		parents: [
+			{
+				id: '70808619747181292112',
+				key: 'item1'
+				role: 'Custodian'
+				tags: 'Primary Role, Main Level, Testing'
+				created: 'Monday, November 24, 2025 - 12:30:40 PM'
+			},
+		],
+		created: 'Monday, November 24, 2025 - 12:27:38 PM'
+	},
+	item3: {
+		id: '38690065123819808596',
+		key: 'item3',
+		name: 'Item 3',
+		parents: [
+			{
+				id: '46548728667373045469',
+				key: 'item1'
+				role: 'Mother'
+				tags: 'Secondary Role, Second Level, Testing',
+				created: 'Monday, November 24, 2025 - 12:34:49 PM',
+			},
+			{
+				id: '38250983660307558887',
+				key: 'item2'
+				role: 'Father'
+				tags: 'Secondary Role, Second Level, Testing',
+				created: 'Monday, November 24, 2025 - 12:35:28 PM',
+			},
+		],
+		created: 'Monday, November 24, 2025 - 12:27:38 PM'
+	},
+}
+
+func: decisionFunc(key) {
+	// set the y item
+	const: z = TheData[key]
+	context[decision]:{{key}}:{{z.id}}
+
+	try:	{
+		action[try]:decision:{{key}}:{{z.id}}
+		state[pending]:decision:{{key}}:{{z.id}}
+		intent[unknown]:decision:{{key}}:{{z.id}}
+
+		state[z]:decision:TheData:{{key}}:{{z.id}}
+		const: #TheData = {{z}} is Resolving True or {{z}} is Iterating to Discover False.
+		
+		state[data]:decision:TheObservation:{{key}}:{{z.id}}
+		const: #TheObservation = #TheData is Creating Cooperation to resolve True or #TheData continue Conflict to hide Falsehoods.
+		
+	}
+	catch: err {
+		talk: #error err data
+		action[catch]:decision:error:{{key}}:{{data.id}}
+		state[invalid]:decision:error:{{key}}:{{data.id}}
+		intent[bad]:decision:error:{{key}}:{{data.id}}
+		return: this.err(err, packet, reject)
+		
+	}
+	finally {
+		action[return]:decision:{{key}}:{{data.id}}
+		state[valid]:decision:{{key}}:{{data.id}}
+		intent[good]:decision:{{key}}:{{data.id}}
+		return: #TheObservation
+	}
+}
+
+func: OwnerCheck(key) {
+	const: owner = TheData[key]
+	context[owner]:{{owner.key}}
+	action[check]:owner:{{key}}:{{identity.id}} // set the return action
+	state[pending]:owner:{{key}}:{{identity.id}} // set the return state valid
+	intent[unknown]:owner:{{key}}:{{identity.id}} // set the return intent good
+
+	try: {
+		// ask Owner Deva a question to check the identity on for owner properties
+		// where y is the data object passed to the question.
+		state[check]:owner:{{key}}:{{owner.id}}
+		// check the potential owner for owner values and set the OwnerCheck 
+		// variable to refer to the returned values.
+		talk[OwnerCheck]: #owner check {{owner}}		
+	}
+	catch: err {
+		talk[OwnerCheckError]: #error err {{y}}
+		action[catch]:owner:error:{{key}}:{{y.id}}
+		state[invalid]:owner:error:{{key}}:{{y.id}}
+		intent[bad]:owner:error:{{key}}:{{y.id}}
+		return: this.err(err, packet, reject)		
+	}
+	finally: {
+		action[return]:owner:{{key}}:{{identity.id}} // set the return action
+		state[valid]:owner:{{key}}:{{identity.id}} // set the return state valid
+		intent[good]:owner:{{key}}:{{identity.id}} // set the return intent good
+		return: owner;		
+	}
+
+}
+
+func: identityCheck(key) {
+	const: identity = TheData[key]
+	context[identity]:{{identity.key}}
+
+	try: {
+		// ask identity a question to validate the identity on y 
+		// where y is the data object passed to the question.
+		state[check]:identity:{{key}}:{{identity.id}}
+		talk[IdentityCheck]: #identity check {{identity}}		
+	}
+	catch: err {
+		talk[IdentityCheckError]: #error err {{identity}}
+		action[return]:identity:{{key}}:{{identity.id}}
+		state[invalid]:identity:{{key}}:{{identity.id}}
+		intent[bad]:identity:{{key}}:{{identity.id}}		
+		return: this.err(err, identity, reject)		
+	}
+	finally {
+		action[return]:identity:{{key}}:{{identity.id}}
+		state[valid]:identity:{{key}}:{{identity.id}}
+		intent[good]:identity:{{key}}:{{identity.id}}
+		return: OwnerCheck(identity.key);		
+	}
+}
+
+func: recursionFunc(key) {
+	// set the y item
+	const: y = TheData[key]
+	context[recursion]:{{key}}:{{y.id}} // set the context to recursion
+	state[pending]:recursion:{{key}}:{{data.id}} // set the state pending
+	intent[unknown]:recursion:{{key}}:{{data.id}} // set the intent unknown
+
+	
+	// then the return the Invalid Identity fun if the check fails.
+	state[check]:recursion:identity:{{key}}:{{y.id}}
+	const: identityValid = identityCheck(y.key)
+	if: !identityValid.check return identityValid
+	
+	// check to make sure the current item has parents array with length.
+	state[check]:recursion:hasParents:{{key}}:{{y.id}}
+	const: hasParents = y.parents && y.parents.length
+	
+	// return function if there are no parents.
+	if: !hasParents {
+		action[return]:recursion:{{key}}:{{y.id}}
+		state[valid]:recursion:{{key}}:{{y.id}}
+		intent[good]:recursion:{{key}}:{{y.id}}
+		return: decisionFunc(y.key)	
+	}
+	// run recursion over the y parents array.
+	try: {
+		action[try]:recursion:parents:{{key}}:{{y.id}}
+		state[parent]:recursion:parents:{{key}}:{{y.id}}
+		intent[unknown]:recursion:parents:{{key}}:{{y.id}}
+		state[loop]:recursion:parents:{{key}}:{{y.id}}
+		for: parent in y.parents {
+			action[return]:recursion:parents:parent:{{parent.key}}:{{parent.id}}
+			return: recursionFunc(parent.key)
+		}
+	}	
+	catch: err {
+		talk[RecursionError]: #error err {{y}}
+		action[catch]:recursion:error:{{key}}:{{y.id}}
+		state[invalid]:recursion:error:{{key}}:{{y.id}}
+		intent[bad]:recursion:error:{{key}}:{{y.id}}
+		return: this.err(err, packet, reject)
+	}
+	finally: {
+		action[finally]:recursion:final:{{key}}:{{y.id}}
+		state[valid]:recursion:final:{{key}}:{{y.id}}
+		intent[good]:recursion:final:{{key}}:{{y.id}}
+		return: decisionFunc(y.key)
+	}
+}
+
+// set the a action marker
+const: a = 'item3'
+
+// loop over The Object with for of loop.
+for: x of TheData {
+	if: (a !== x.key) continue
+	// set the value of x key lookup into a local data object.	
+	try: {
+		action[try]:x.id
+		state[pending]:x.id
+		intent[unknown]:x.id
+		recursionFunc(x.key)	
+	}	
+	catch: err {
+		action[catch]:x.id
+		state[invalid]:x.id
+		intent[bad]:x.id
+		talk: #error err x
+		return: this.err(err, packet, reject)
+	}
+	finally: {
+		action[finally]:x.id
+		state[valid]:x.id
+		intent[good]:x.id
+		return: x
+	}
+}
+::end:example
+
+## Meta Information
+talk: #algorithm help RecursionFramework:meta
+
+## License Information
+talk: #algorithm help RecursionFramework:license
+::END:MAIN
+
+::BEGIN:META
+::begin:meta:47576293747852770489
+name: Recursion Decision Framework
+version: 0.1.0
+date: Wednesday, November 26, 2025
+license: VLA:47576293747852770489
+creator: Quinn A Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.
+::end:meta:47576293747852770489
+::END:META
+
+::BEGIN:LICENSE
+::begin:license:uid:47576293747852770489
+uid: 47576293747852770489
+time: 1763783823992
+date: Friday, November 21, 2025 - 7:57:03 PM
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.
+license: 19805757887465280873
+fingerprint: 5DLobC93PWlroCCk3fsJ6PGnto6I/tS2U2c/A48yMdQ=
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.
+::end:license:uid:47576293747852770489
+::END:LICENSE
