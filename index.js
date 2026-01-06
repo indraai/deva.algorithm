@@ -1,9 +1,10 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:71227287749283770868 LICENSE.md
-
 // Algorithm Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:61255808308467181662 LICENSE.md
+// Tuesday, January 6, 2026 - 4:10:21 AM
+
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
 const {agent,vars} = pkg.data;
