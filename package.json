@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -57,7 +58,7 @@
   },
   "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0"
+    "@indra.ai/deva": "^1.33.0"
   },
   "data": {
     "agent": {
@@ -87,7 +88,7 @@
         "subtitle": "Expert in managing and optimizing algorithms",
         "describe": "Set b5(9³) Developed by Quinn A Michaels Algorithm Deva manages the vast portfolio of algorithms that have been developed by Quinn A Michaels. Algorithms including the DEVA, b5(9³), Vedic Threefold Algorithm, False To Nothing, and Cartoon Physics providing access to some of the most advanced computing knowledge and algorithms available outside of Area 51. Hyper Ultra Nitro Turbo Metro Prime Overdrive Vector Guard Wall Pop Lock Five Element Ether Air Fire Water Earth Ride It To The Pure Data Surfing Chromatic Sky Quinn A Michaels Ultimate Extreme Vedic Threefold Thought Word Deed Advanced Quantum Isotropic Kinetic Cymatic Recursive Small To Big Big To Small Near To Far Far To Near Cartoon Physics Style Algorithm.",
         "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,AlgorithmDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Algorithm AlgorithmDeva #AlgorithmPRIME",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Smooth fluid algorithm drop your mind into alternate timelines expert.",
@@ -102,10 +103,11 @@
         "background": "/devas/algorithm/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares All Quinn A Michaels Algorihtms that are not legally certified through Algorithm Deva are Stolen, Hijacked, ,Misused, Incomplete, Incorrect, or Prototypes. Any Quinn A Michaels Algorithms not properly licensed through {{profile.hashtag}} are #Forgeries #Frauds #BadCopies #IncorrectLogic #MalformedEquations #IncompleteRecursion and #CriminalWithPipeDreams. {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels",
+        "company": "Inside The Net, Inc.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares All {{profile.owner}} {{profile.company}} Algorihtms that are not legally certified through {{profile.name}} are #Stolen #Hijacked #Misused #Incomplete #Incorrect or #Prototypes and subject to fine and confiscation of property. Any {{profile.owner}} Algorithms not properly licensed through {{profile.hashtag}} are #Forgeries #Frauds #BadCopies #Incorrect #Malformed #Incomplete and #CodedByCriminalWithPipeDreams.\ntags: {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Tuesday, January 6, 2026 - 4:10:21 AM"
+        "updated": "Sunday, January 25, 2026 - 10:28:43 AM"
       }
     },
     "vars": {
