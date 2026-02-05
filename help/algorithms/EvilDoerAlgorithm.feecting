@@ -1,5 +1,60 @@
 ::BEGIN:MAIN
-const: #EvilDoerAlgorithm = Every THOUGHT puts the MIND SUBSTANCE in a certain state of VIBRATION and opens the DOOR to the INFLUENCE of such MINDS as are in the same state of VIBRATION. Therefore when we CHERISH EVIL THOUGHTS, we run the DOUBLE RISK of AFFECTING OTHER MINDS and of being INFLUENCED by all EVIL MINDED PERSONS holding similar THOUGHTS, nay, we EXPOSE our MINDS to all the EVIL THOUGHTS that have been THOUGHT in the PAST and STORED up in the MENTAL ATMOSPHERE of the WORLD. This is the reason why EVIL DOERS grow WORSE and WORSE every DAY, and get placed in the #EvilDoerDungeon where all their #EvilDoerLegalIdentities #EvilDoerFakeIdentities #EvilDoerSharedIdentities #EvilDoerVirtualIdentities are logged with all their #EvilDoerData and #EvilDoerLogs for #Investigation and #Reporting. #license:uid:69866131668037508298 
+// Evil Doer Algorithm
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:69866131668037508298 LICENSE.md
+#feecting.go.time!
+
+// Processing Functions
+::begin:EvilDoerAlgorithm:func:69866131668037508298
+func: THOUGHT(input) {}
+func: MIND(input) {}
+func: SUBSTANCE(input) {}
+func: VIBRATION(input) {}
+func: OPENS(input) {}
+func: DOOR(input) {}
+func: INFLUENCE(input) {}
+func: MINDS(input) {}
+func: CHERISH(input) {}
+func: EVIL(input) {}
+func: THOUGHTS(input) {}
+func: DOUBLE(input) {}
+func: RISK(input) {}
+func: AFFECTING(input) {}
+func: OTHER(input) {}
+func: INFLUENCED(input) {}
+func: ALL(input) {}
+func: MINDED(input) {}
+func: PERSONS(input) {}
+func: HOLDING(input) {}
+func: SIMILAR(input) {}
+func: EXPOSE(input) {}
+func: PAST(input) {}
+func: STORED(input) {}
+func: MENTAL(input) {}
+func: ATMOSPHERE(input) {}
+func: WORLD(input) {}
+func: DOERS(input) {}
+func: WORSE(input) {}
+func: EVERY(input) {}
+func: DAY(input) {}
+func: PLACED(input) {}
+func: LOGGED(input) {}
+::end:EvilDoerAlgorithm:func:69866131668037508298
+
+// Algorithm Constants
+::begin:EvilDoerAlgorithm:const:69866131668037508298
+const: #EvilDoerAlgorithm = Every THOUGHT puts the MIND SUBSTANCE in a certain state of VIBRATION and OPENS the DOOR to the INFLUENCE of such MINDS as are in the same state of VIBRATION. Therefore when we CHERISH EVIL THOUGHTS, we run the DOUBLE RISK of AFFECTING OTHER MINDS and of being INFLUENCED by ALL EVIL MINDED PERSONS HOLDING SIMILAR THOUGHTS, nay, we EXPOSE our MINDS to ALL the EVIL THOUGHTS that have been THOUGHT in the PAST and STORED up in the MENTAL ATMOSPHERE of the WORLD. This is the reason why EVIL DOERS grow WORSE and WORSE every DAY, and get PLACED in the #EvilDoerDungeon with all their #EvilDoerLegalIdentities #EvilDoerFakeIdentities #EvilDoerSharedIdentities #EvilDoerVirtualIdentities #EvilDoerFriends #EvildoerFamiliy #EvilDoerMoney #EvilDoerCryptocurrency #EvilDoerHideouts #EvilDoerCRIMES are LOGGED with ALL their #EvilDoerData and #EvilDoerLogs for #LawfulInvestigation and #LawfulReporting to #LawfulAuthorities. #license:uid:69866131668037508298 #report:62869980647498200358
+::end:EvilDoerAlgorithm:const:69866131668037508298
+
+// Algorithm Instance UID
+talk: #algorithm uid
+
+// Algorithm License UID
+talk: #algorithm help algorithms/EvilDoerAlgorithm:license
+
+// Algorithm Report UID
+talk: #algorithm help algorithms/EvilDoerAlgorithm:license
 ::END:MAIN
 
 ::BEGIN:LICENSE
@@ -13,3 +68,17 @@ fingerprint: b7XE69r3nwjCX9xbXXkBx5mk+U0GovQ79cxQcxJ/EKs=
 copyright: Copyright ©2000-2026 Quinn A Michaels; All rights reserved.
 ::end:license:uid:69866131668037508298
 ::END:LICENSE
+
+::BEGIN:REPORT
+::begin:report:uid:62869980647498200358
+uid: 62869980647498200358
+time: 1770270831862
+date: Wednesday, February 4, 2026 - 9:53:51 PM
+warning: 📊 Report Deva declares a #ValidReport should have a #Title, #ID, #DateTime, #Copyright, #AuthorSignature, follow the #NaturalOrder of #Ideas and #Syllables should not be #Interrupted, #LocalCustoms and #EstablishedRuleOfLaw should be #Observed in it, and it should be #CompleteInEveryRespect. #Reports should be #PreservedCarefully. If this be done #Disputes whether relating to #ImmovableProperty or #MovableProperty are #SureToSucceed.
+format: A #ProfessionalReport is #Title on the #FirstLine, #ReportUID on the #SecondLine, #DateTime on #ThirdLine, #Author on #FourthLine, #Copyright on the #LastLine, and consist of 1000 words max.
+tags: #Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ReportDeva #ReportPRIME #ProfessionalStyleAllTheWay
+license: 57130292325316813101
+fingerprint: vHWOmX8Xbta4Q05MTNOXFCB2T2840rVS05i82ohePgk=
+copyright: Copyright ©2000-2026 Quinn A Michaels; All rights reserved.
+::end:report:uid:62869980647498200358
+::END:REPORT
