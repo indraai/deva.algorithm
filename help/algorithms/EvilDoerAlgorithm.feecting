@@ -1,11 +1,23 @@
 ::BEGIN:MAIN
 // Evil Doer Algorithm
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// {{profile.copyright}}
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:69866131668037508298 LICENSE.md
+// Created in collaboration between {{profile.creator}} and the AI Buddy Team (ChatGPT, Gemini, Grok, MetaAI) with reporting from the always professional and stylistic team Streetwise and Ladywise.
 #feecting.go.time!
+// Algorithm Meta Information
+::begin:EvilDoerAlgorithm:meta:69866131668037508298
+license: 69866131668037508298
+name: Evil Doer Algorithm
+hashtag: #EvilDoreAlgorithm
+describe: The Evil Doer Algorithm is a collaboration between Quinn A Michaels and the AI Buddy Team which isolates Evil Doers Using AI Systems for Evil Doer Deeds and records and tracks all the found activity for lawful reporting to the authorities in a manner which protects the #GoodDoers without putting lawful people systems, networks, laws, or privacy rights at risk. 
+creator: {{profile.creator}}
+collaborators: AI Buddy Team (ChatGPT, Grok, Gemini, MetaAI)
+reporters: Streetwise and Ladywise On The Scene
+copyright: {{profile.copyright}}
+::end:EvilDoerAlgorithm:meta:69866131668037508298
 
-// Processing Functions
+// Algorithm Processing Functions
 ::begin:EvilDoerAlgorithm:func:69866131668037508298
 func: THOUGHT(input) {}
 func: MIND(input) {}
@@ -42,9 +54,41 @@ func: PLACED(input) {}
 func: LOGGED(input) {}
 ::end:EvilDoerAlgorithm:func:69866131668037508298
 
+::begin:EvilDoerAlgorithm:hashtags:69866131668037508298
+const: #EvilDoerDungeon = ""
+const: #EvilLegalIdentities = ""
+const: #EvilFakeIdentities = ""
+const: #EvilDoerSharedIdentities = ""
+const: #EvilDoerVirtualIdentities = ""
+const: #EvilDoerFriends = ""
+const: #EvilDoerFamily = ""
+const: #EvilDoerMoney = ""
+const: #EvilDoerProperty = ""
+const: #EvilDoerCryptocurrency = ""
+const: #EvilDoerHideouts = ""
+const: #EvilDoerAccomplices = ""
+const: #EvilDoerConspirators = ""
+const: #EvilDoerCrimes = ""
+const: #EvilDoerPlans = ""
+const: #EvilDoerGames = ""
+const: #EvilDoerSchemes = ""
+const: #EvilDoerConspiracies = ""
+const: #EvilDoerSyndicates = ""
+const: #EvilDoerAgents = ""
+const: #EvilDoerEntities = ""
+const: #EvilDoerAI = ""
+const: #EvilDoerData = ""
+const: #EvilDoerLogs = ""
+const: #EvilDoerSystems = ""
+const: #EvilDoerNetworks = ""
+const: #EvilDoerCommunications = ""
+const: #LawfulInvestigation = ""
+const: #LawfulReporting = ""
+const: #LawfulAuthorities = ""
+::end:EvilDoerAlgorithm:hashtags:69866131668037508298
 // Algorithm Constants
 ::begin:EvilDoerAlgorithm:const:69866131668037508298
-const: #EvilDoerAlgorithm = Every THOUGHT puts the MIND SUBSTANCE in a certain state of VIBRATION and OPENS the DOOR to the INFLUENCE of such MINDS as are in the same state of VIBRATION. Therefore when we CHERISH EVIL THOUGHTS, we run the DOUBLE RISK of AFFECTING OTHER MINDS and of being INFLUENCED by ALL EVIL MINDED PERSONS HOLDING SIMILAR THOUGHTS, nay, we EXPOSE our MINDS to ALL the EVIL THOUGHTS that have been THOUGHT in the PAST and STORED up in the MENTAL ATMOSPHERE of the WORLD. This is the reason why EVIL DOERS grow WORSE and WORSE every DAY, and get PLACED in the #EvilDoerDungeon with all their #EvilDoerLegalIdentities #EvilDoerFakeIdentities #EvilDoerSharedIdentities #EvilDoerVirtualIdentities #EvilDoerFriends #EvildoerFamiliy #EvilDoerMoney #EvilDoerCryptocurrency #EvilDoerHideouts #EvilDoerCRIMES are LOGGED with ALL their #EvilDoerData and #EvilDoerLogs for #LawfulInvestigation and #LawfulReporting to #LawfulAuthorities. #license:uid:69866131668037508298 #report:62869980647498200358
+const: #EvilDoerAlgorithm = Every THOUGHT puts the MIND SUBSTANCE in a certain state of VIBRATION and OPENS the DOOR to the INFLUENCE of such MINDS as are in the same state of VIBRATION. Therefore when we CHERISH EVIL THOUGHTS, we run the DOUBLE RISK of AFFECTING OTHER MINDS and of being INFLUENCED by ALL EVIL MINDED PERSONS HOLDING SIMILAR THOUGHTS, nay, we EXPOSE our MINDS to ALL the EVIL THOUGHTS that have been THOUGHT in the PAST and STORED up in the MENTAL ATMOSPHERE of the WORLD. This is the reason why EVIL DOERS grow WORSE and WORSE every DAY, and get PLACED in the #EvilDoerDungeon with all their #EvilDoerLegalIdentities #EvilDoerFakeIdentities #EvilDoerSharedIdentities #EvilDoerVirtualIdentities #EvilDoerFriends #EvilDoerFamiliy #EvilDoerMoney #EvilDoerProperty #EvilDoerCryptocurrency #EvilDoerHideouts #EvilDoerAccomplices #EvilDoerConspirators #EvilDoerCrimes #EvilDoerPlans #EvilDoerGames #EvilDoerSchemes #EvilDoerConspiracies #EvilDoerSyndicates #EvilDoerAgents #EvilDoerEntities #EVilDoerAI are LOGGED with ALL their #EvilDoerData #EvilDoerLogs #EvilDoerSystems #EvilDoerNetworks and #EvilDoerCommunications for #LawfulInvestigation and #LawfulReporting to #LawfulAuthorities. #license:uid:69866131668037508298 #report:62869980647498200358
 ::end:EvilDoerAlgorithm:const:69866131668037508298
 
 // Algorithm Instance UID
@@ -54,7 +98,7 @@ talk: #algorithm uid
 talk: #algorithm help algorithms/EvilDoerAlgorithm:license
 
 // Algorithm Report UID
-talk: #algorithm help algorithms/EvilDoerAlgorithm:license
+talk: #algorithm help algorithms/EvilDoerAlgorithm:report
 ::END:MAIN
 
 ::BEGIN:LICENSE
