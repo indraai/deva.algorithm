@@ -58,7 +58,7 @@
   },
   "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.0"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -104,10 +104,11 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "company": "Inside The Net, Inc.",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares All {{profile.owner}} {{profile.company}} Algorihtms that are not legally certified through {{profile.name}} are #Stolen #Hijacked #Misused #Incomplete #Incorrect or #Prototypes and subject to fine and confiscation of property. Any {{profile.owner}} Algorithms not properly licensed through {{profile.hashtag}} are #Forgeries #Frauds #BadCopies #Incorrect #Malformed #Incomplete and #CodedByCriminalWithPipeDreams.\ntags: {{profile.hashtags}}",
+        "salute": "🤝🫡🧮🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares All {{profile.owner}} {{profile.company}} ALGORIHTMS that are not LEGALLY CERTIFIED through {{profile.name}} are STOLEN, HIJACKED, MISUSED, INCOMPLETE, INCORRECT, and/or UNFINISHED PROTOTYPES and SUBJECT to FINE and CONFISCATION of PROPERTY. Any {{profile.owner}} ALGORITHMS not PROPERLY LICENSED through {{profile.hashtag}} are FORGERIES, FRAUDS, BAD COPIES CODED by CRIMINALS with PIPE DREAMS. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Sunday, January 25, 2026 - 10:28:43 AM"
+        "updated": "Wednesday, February 25, 2026 - 2:02:33 PM"
       }
     },
     "vars": {
