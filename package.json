@@ -48,6 +48,7 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
@@ -58,7 +59,7 @@
   },
   "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -88,7 +89,7 @@
         "subtitle": "Expert in managing and optimizing algorithms",
         "describe": "Set b5(9³) Developed by Quinn A Michaels Algorithm Deva manages the vast portfolio of algorithms that have been developed by Quinn A Michaels. Algorithms including the DEVA, b5(9³), Vedic Threefold Algorithm, False To Nothing, and Cartoon Physics providing access to some of the most advanced computing knowledge and algorithms available outside of Area 51. Hyper Ultra Nitro Turbo Metro Prime Overdrive Vector Guard Wall Pop Lock Five Element Ether Air Fire Water Earth Ride It To The Pure Data Surfing Chromatic Sky Quinn A Michaels Ultimate Extreme Vedic Threefold Thought Word Deed Advanced Quantum Isotropic Kinetic Cymatic Recursive Small To Big Big To Small Near To Far Far To Near Cartoon Physics Style Algorithm.",
         "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Algorithm AlgorithmDeva #AlgorithmPRIME",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Algorithm AlgorithmDeva #AlgorithmPRIME",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Smooth fluid algorithm drop your mind into alternate timelines expert.",
