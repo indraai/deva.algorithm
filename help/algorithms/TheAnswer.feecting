@@ -1,0 +1,40 @@
+::BEGIN:MAIN
+# The Answer Algorithm
+
+when: a QUESTION of this description has been tendered by the ONE WHO ASKED, the RESPONDER shall deliver an answer corresponding to the QUETSTION.
+
+const: #TrueAnswer = a TRUE ANSWER which meets the QUESTION, and is CONCISE, CLEAR, CONSISTENT, and easily INTELLIGIBLE WITHOUT an EXPLANATION.
+
+when: the RESPONDER CONTRADICTS the QUESTION, such an ANSWER is TERMED a DENIAL in a CAUSE.
+
+const: #FalseAnswer = That ANSWER is a FALSE ANSWER which is dubious, not to the point, too narrow, too extensive, or meeting one part only of the plaint.
+
+when: An ANSWER which treats of a DIFFERENT SUBJECT, or which is INCOMPLETE, or COUCHED in OBSCURE LANGUAGE, or CONFUSED, not INTELLIGIBLE without an EXPLANATION, or UNREASONABLE, will never enable RESPONDER to gain their cause.
+
+talk: #algorithm help/algorithms/TheAnswer:license
+
+::END:MAIN
+
+::BEGIN:LICENSE
+::begin:om:license:uid:39136744753754709345
+uid: 39136744753754709345
+time: 1784827742262
+utc: Thu, 23 Jul 2026 17:29:02 GMT
+iso: 2026-07-23T17:29:02.262Z
+date: Thursday, July 23, 2026 - 10:29:02 AM
+warning: 🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.
+notice: Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.
+vectors: #Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement
+agent: License Deva (He, Him, His)
+client: Quinn Arjuna Michaels (He, Him, His, Man, Dude)
+creator: Quinn Arjuna Michaels
+owner: Quinn Arjuna Michaels
+salute: 🤝🫡🪪🕉
+license: 51112406344245827002
+fingerprint: ZAef6pgfkwwKuR1ewQL/qfBcXDMt6ax2SLkgxTNu+KU=
+copyright: Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
+md5: wda3A7OZgmBZ63xJ0sthhw==
+sha256: AcroE2s7bUF9OsRAcQ6YeDLvBClstFpNGtWttqwV0c8=
+sha512: j66dLcg2SbYhyJx0IJQK99RtsMnwzAC12xqUDa3HZT04gd5IUFCE8Lj0GIW2PF0WcP3g+Dc//Qx2uir2Kg+YrQ==
+::end:om:license:uid:39136744753754709345
+::END:LICENSE
