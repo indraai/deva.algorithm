@@ -30,8 +30,13 @@ array: orients = [
 	['first', 'last'],
 	['best', 'worst'],
 	['one', 'many'],
+	['snack', 'hungry'], // 8/26/26 - 3:11PM PST
+	['accelerate', 'decelerate'], // 8/26/26 - 3:11PM PST
+	['attach', 'detach'], // 8/26/26 - 3:11PM PST
+	['cold', 'hot'], // 8/26/26 - 3:11PM PST
 	['organized', 'unorganized'],
-	['alignment', 'misalignment'], // Added 8/18/26 - 4:19PM PST
+	['alignment', 'misalignment'], // 8/18/26 - 4:19PM PST
+	['beautiful', 'ugly'], // 08/25/26 - 6:28AM PST
 	['pattern', 'coincidence'],
 	['reality', 'simulation'],
 	['empathy', 'apathy'],
