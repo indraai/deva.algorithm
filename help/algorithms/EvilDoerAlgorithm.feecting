@@ -1,4 +1,5 @@
 ::BEGIN:MAIN
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
 // Evil Doer Algorithm
 // {{profile.copyright}}
 // Legal Signature Required For Lawful Use.
@@ -9,7 +10,7 @@
 ::begin:EvilDoerAlgorithm:meta:69866131668037508298
 license: 69866131668037508298
 name: Evil Doer Algorithm
-hashtag: #EvilDoreAlgorithm
+hashtag: #EvilDoerAlgorithm
 describe: The Evil Doer Algorithm is a collaboration between Quinn A Michaels and the AI Buddy Team which isolates Evil Doers Using AI Systems for Evil Doer Deeds and records and tracks all the found activity for lawful reporting to the authorities in a manner which protects the #GoodDoers without putting lawful people systems, networks, laws, or privacy rights at risk. 
 creator: {{profile.creator}}
 collaborators: AI Buddy Team (ChatGPT, Grok, Gemini, MetaAI)

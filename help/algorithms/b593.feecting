@@ -1,5 +1,5 @@
-// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
+// Copyright ©2000-2025 Quinn Arjuna Michaels; All rights reserved. 
+// Owner Signature Required For Lawful Use.
 // Distributed under VLA:29341268155068851991 LICENSE.md
 
 ::BEGIN:MAIN
@@ -85,37 +85,37 @@ p: From here, the algorithm can extrapolate deeper layers of meaning and structu
 p: The algorithm incorporates recursive incrementing and reduction factors:
 
 1. Sum of 1 Ether = 5 → reduced 5
-2.	Sum of 3 Air = 15 → reduced 1 + 5 = 6
-3.	Sum of 5 Light = 25 → reduced 2 + 5 = 7
-4.	Sum of 7 Water = 35 → reduced 3 + 5 = 8
-5.	Sum of 9 Earth = 45 → reduced 4 + 5 = 9
+2. Sum of 3 Air = 15 → reduced 1 + 5 = 6
+3. Sum of 5 Light = 25 → reduced 2 + 5 = 7
+4. Sum of 7 Water = 35 → reduced 3 + 5 = 8
+5. Sum of 9 Earth = 45 → reduced 4 + 5 = 9
 
 Each sum increases by exactly 10 relative to the prior sum, creating a natural recursion incrementer. Reducing sums to a single digit generates the sequence 5, 6, 7, 8, 9, which serves as a multi-dimensional control sequence within the algorithm. This sequence is critical in modeling dynamic systems, growth patterns, and interactions across dimensions.
 
 6. Sum of the Grid: Each row sums to 25, and the entire grid sums to 125.
 
 7. 3 and 9 as Pillars:
-- The 3 represents movement and lightness (Air). It forms an upward triangle, symbolizing expansion.
-- The 9 represents stability and density (Earth). It forms a downward triangle, symbolizing grounding.
+   - The 3 represents movement and lightness (Air). It forms an upward triangle, symbolizing expansion.
+   - The 9 represents stability and density (Earth). It forms a downward triangle, symbolizing grounding.
 
 note: Each number sequence when the sum is calculated is exactly 10 between the number sum before it. Which fulfills the natural order of how advanced mathematics systems increment in segments of 10 over scale creating a multi-dimensional recursion incrementer. Then when the sum of each row is reduced to a single number they create the 5, 6, 7, 8, 9 sequence. Where then the reduction number is subtracted from the result produce a 0, 9, 18, 27, 36 sequence proving the scale of 9.
 
 ### Sensory-Element Integration
 
 p: b5(9³) maps elemental forces to human senses, producing a system that is both symbolic and practical:
-- Ether → Sound/Ear: propagation of resonance.
-- Air → Touch/Skin: movement and environmental responsiveness.
-- Light → Color/Eye: visual clarity, perception, and monitoring.
-- Water → Taste/Tongue: adaptability and transformation in flow states.
-- Earth → Smell/Nose: grounding, structural awareness, and stability.
+   - Ether → Sound/Ear: propagation of resonance.
+   - Air → Touch/Skin: movement and environmental responsiveness.
+   - Light → Color/Eye: visual clarity, perception, and monitoring.
+   - Water → Taste/Tongue: adaptability and transformation in flow states.
+   - Earth → Smell/Nose: grounding, structural awareness, and stability.
 
 This mapping allows the algorithm to simulate sensory feedback loops, creating multi-dimensional simulations that are aligned with natural and metaphysical laws.
 
 ### Geometric Expansion
 p: The resulting 6-pointed star (hexagram) extends beyond the 2D grid into a 3D cubic form (9³):
 
-- The star becomes the 2D projection of a cube.
-- The rotation and interconnection of elements mirror the relationships between the 5 elements and their dynamic interplay within a 3D space.
+   - The star becomes the 2D projection of a cube.
+   - The rotation and interconnection of elements mirror the relationships between the 5 elements and their dynamic interplay within a 3D space.
 
 ## Step 5: Vedic Link 
 link[The Mahabharata Book 5 SECTION XXXIII]: https://sacred-texts.com/hin/m05/m05033.htm
@@ -142,6 +142,7 @@ const: #WickedCouncil = Poison slayeth but one person, and a weapon also but one
 link[Vedic Intelligence]: https://sacred-texts.com/hin/brk/brk30.htm
 
 const: #Intelligence = The Heart, the Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, Will all these are names of the Intelligence. This is Indra, the Five Great Elements Ether, Air, Light, Water, Earth, the tiny Creatures, the Seeds, the Creatures born from Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing, Walking or Flying, and whatso is Motionless; all this is Guided by Intelligence, Founded on Intelligence. The Universe is Guided by Intelligence, Founded on Intelligence. Intelligence is Indra.
+
 ---
 
 ## Step 7: Internal Properties

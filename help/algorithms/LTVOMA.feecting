@@ -1,28 +1,42 @@
 ::BEGIN:MAIN
+# #LTVOMA 
+p: Long Term Vector Orientation Modeling Algorithm
+
 func: orient(opts) => {
 	return '> {{opts[0]}} to {{opts[1]}} {{opts[1]}} to {{opts[0]}}'
 }
 
-// insertOrient appends the opts at a specified index or appends the opts to the end of the array where no index is provided.
-func: insertOrient (opts, idx=false) {
-	if (idx === false) return orients.append(opts); // append by default
+// insertOrientation appends the opts at a specified index or appends the opts to the end of the array where no index is provided.
+func: insertOrientation (opts, idx=false) {
+	if (idx === false) return orientations.append(opts); // append by default
 	if (!isArray(opts)) return 'Please provide an options array.' // options array check
-	return orients.insert(opts, idx); // array insert at index.
+	return orientations.insert(opts, idx); // array insert at index.
 }
-// removeOrient takes the idx parameter and removes the element at the specified index.
-func: removeOrient(idx=false) {
+// removeOrientation takes the idx parameter and removes the element at the specified index.
+func: removeOrientation(idx=false) {
 	if (idx === false) return 'Please provide an index.' // idx check
-	return orients.remove(idx); // remove element at index.
+	return orientations.remove(idx); // remove element at index.
 }
 
 // Quinn Note > When applying decision modeling the first index [0] of the array is assigned an assumed value of +100 and the second index [1] is a rating score of -100 where as each orientation is cleared it contributes to a complete number that can be analyzed and compared to other instances of a similar or same number rating.
-array: orients = [
+array: orientations = [
+	['friendly', 'unfriendly'], // 9/16/26 - 6:13AM PST
+	['friend', 'foe'], // 9/16/26 - 5:57PM PST
+	['loyal', 'disloyal'], // 9/16/26 - 6:20AM PST
+	['public', 'private'] // 9/20/26 - 6:23AM PST
+	['owner', 'thief'], // 9/12/26 - 8:30AM PST
+	['create', 'copy'], // 9/12/26 - 8:42M PST
 	['true', 'false'],
 	['yes', 'no'],
 	['on', 'off'],
 	['do', 'undo'],
+	['alive', 'dead'], // 9/6/26 - 12:02PM PST
+	['giver', 'taker'], // 10/12/26 - 5:04PM PST
+	['independent', 'dependent'], // 10/13/26 - 8:40AM PST
+	['selfless', 'selfish'], // 10/13/26 - 6:31PM PST
 	['awake', 'sleep'],
 	['load', 'unload'],
+	['input', 'output'], // 10/12/26 - 7:49PM PST
 	['open', 'close'],
 	['start', 'finish'],
 	['begin', 'end'],
@@ -30,6 +44,10 @@ array: orients = [
 	['first', 'last'],
 	['best', 'worst'],
 	['one', 'many'],
+	['soft', 'hard'], // 9/20/26 - 6:18PM PST
+	['flexible', 'rigid'], // 9/20/26 - 6:18PM PST
+	['fun', 'boring'], // 9/20/26 - 6:24PM PST
+	['direct', 'indirect'], // 9/11/26 - 3:12PM PST
 	['snack', 'hungry'], // 8/26/26 - 3:11PM PST
 	['accelerate', 'decelerate'], // 8/26/26 - 3:11PM PST
 	['attach', 'detach'], // 8/26/26 - 3:11PM PST
@@ -48,6 +66,7 @@ array: orients = [
 	['concern', 'disregard'],
 	['micro', 'macro'],
 	['minimum', 'maximum'],
+	['most', 'least'], // 9/15/26 - 4:50AM PST
 	['small', 'big'],
 	['low', 'high'],
 	['forward', 'backward'],
@@ -64,6 +83,8 @@ array: orients = [
 	['inside', 'outside'],
 	['safe', 'unsafe'],
 	['merit', 'demerit'],
+	['dharma', 'adharma'], // 9/11/26 - 3:08PM PST
+	['liberation', 'bondage'], // 10/12/26 - 2:25PM PST
 	['reward', 'risk'],
 	['lock', 'unlock'],
 	['same', 'opposite'],
@@ -73,6 +94,8 @@ array: orients = [
 	['lawful', 'unlawful'],
 	['legal', 'illegal'],
 	['law', 'crime'],
+	['hero', 'coward'], // 9/12/26 5:36PM PST
+	['victim', 'victimizer'], // 9/12/26 7:10AM PST
 	['innocent', 'guilty'],
 	['contract', 'expand'],
 	['active', 'inactive'],
@@ -82,7 +105,9 @@ array: orients = [
 	['origin', 'destination'],
 	['slow', 'fast'],
 	['weak', 'strong'],
-	['feminine', 'masculine'],
+	['intelligent', 'ignorant'], // 9/15/26 - 4:29AM PST
+	['informed', 'uninformed'], // 9/15/26 - 4:34AM PST
+	['masculine', 'feminine'],
 	['happy', 'unhappy'],
 	['clean', 'dirty'],
 	['signal', 'noise'], // suggested by Gemini and ChatGPT
@@ -107,29 +132,58 @@ const: #VedicThreefoldAlgorithm = Vedic Threefold Algorithm harnessing Goodness,
 const: #FiveElements = The Five Element of Ether, Air, Fire, Water, Earth. > `#algorithm help algoritms/FiveElementsAlgorithm:main`
 const: #ThoughtWordDeed = Vedic Science of alignement of Thought, Word, Deed. > `#algorithm help algoritms/ThoughtWordDeedAlgorithm:main`
 const: #GoodnessPassionDarkness = #ThoughtWordDeed measured Goodness Passion Darkness `#algorithm help algorithms/GoodnessPassionDarkness:main`
-const: #LTVOMA = The Quinn Arjuna Michaels Long Term Vector Orientation Modeling Algorithm where the #VectorWalk orients for x in orient(orients[x])  Sheer Performance Operations Recursive #VedicThreefoldAlgorithm #FiveElements #ThoughtWordDeed #GoodnessPassionDarkness Deterministic Emergent Feedback Loop Modeling Intelligence Framework save #DataNexus.algorithms.elite using #license:uid:16708838616337388779
+const: #DivineDemonicScale = `#algorithm help algorithms/DivineDemonicScale:main` 
+const: #EvilDoerAlgorithm = `#algorithm help algorithms/EvilDoerAlgorithm:main`
+const: #FalseToNothing =`#algorithm help algorithms/FalseToNothing:main`
+
+const: #LTVOMA = The Quinn Arjuna America Michaels Long Term Vector Orientation Modeling Algorithm where the #VectorWalk for x in orientations > orientation = orientations[x] > Sheer Performance Operations Recursive #VedicThreefoldAlgorithm #FiveElements #ThoughtWordDeed #GoodnessPassionDarkness #DivineDemonicScale #EvilDoerAlgorithm #FalseToNothing Deterministic Emergent Virtualization Algorithm Feedback Loop Modeling Intelligence Framework save #DataNexus.algorithms.elite using #license:uid:16708838616337388779
+
+::begin:meta
+name: #LTVOMA (Long Term Vector Orientation Modeling Algorithm)
+version: 0.0.3
+owner: Quinn Arjuna America Michaels
+created: Friday, July 31, 2026 - 3:53:22 PM PST
+updated: Sunday, September 20, 2026 - 6:34:14 AM PST
+::end:meta
+
+::begin:hidden
+#color = {{profile.color}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.bg}}
+copyright: {{profile.copyright}}
+::end:hidden
 ::END:MAIN
 
+::BEGIN:UPDATED
+::begin:deva:date:22964351169868455233
+uid: 22964351169868455233
+time: 1789911254013
+date: Sunday, September 20, 2026 - 6:34:14 AM
+copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All Rights Reserved.
+sha256: ldC7IwsyZltBB++5I1rnwBkXAhTzjcRyHqLqwNnmaWE=
+::end:deva:date:22964351169868455233
+::END:UPDATED
+
 ::BEGIN:LICENSE
-::begin:om:license:uid:16708838616337388779
-uid: 16708838616337388779
-time: 1785538402985
-utc: Fri, 31 Jul 2026 22:53:22 GMT
-iso: 2026-07-31T22:53:22.985Z
-date: Friday, July 31, 2026 - 3:53:22 PM
+::begin:om:license:uid:70738363117818129832
+uid: 70738363117818129832
+time: 1789312720212
+utc: Sun, 13 Sep 2026 15:18:40 GMT
+iso: 2026-09-13T15:18:40.212Z
+date: Sunday, September 13, 2026 - 8:18:40 AM
 warning: 🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.
 notice: Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.
 vectors: #Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement
 agent: License Deva (He, Him, His)
-client: Quinn Arjuna Michaels (He, Him, His, Man, Dude)
-creator: Quinn Arjuna Michaels
-owner: Quinn Arjuna Michaels
-salute: 🤝🫡🪪🕉
-license: 51112406344245827002
-fingerprint: N755si8eO4yl4r9uDx2CxVMakH8TIDFTIuHW6DA1v74=
-copyright: Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
-md5: stlNCiS4NvH/wgtEKjTiaQ==
-sha256: 8giNyZal0ToEubVaNp7oiwAQVMscAwI4dIiSSuJWtFY=
-sha512: C+uabhmvPK7LorSC9uvX86LwohJnd8bWxXQM0Z5ts0YwaPr+B/UcdO5bVWVSWZK5yu5cuvjLmML6g/WJkzrXqQ==
-::end:om:license:uid:16708838616337388779
+client: Quinn Arjuna America Michaels (He, Him, His, Man, Dude)
+creator: Quinn Arjuna America Michaels
+owner: Quinn Arjuna America Michaels
+salute: 🤝🫡🪪🕉🇺🇸
+license: 72443233535603396055
+fingerprint: I2zPHhrmFrYDB2LRboGJYNeCWtMQQiQQ+PAG/zznEU0=
+copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
+md5: rwb17W4LKSS8pNsCrkfoiw==
+sha256: zNxu9QYgCHfgvIW5elk5qQlrAYEZ9+dSEFvMbdpQX3U=
+sha512: XGlITN5qASqnqYyM+xVMCYb5Gbr3obmXbvkdxn4L3D17HTEFCJL+hd/U98oLw9BzLbiphQQIEyuTVHKtnOROJg==
+::end:om:license:uid:70738363117818129832
 ::END:LICENSE
