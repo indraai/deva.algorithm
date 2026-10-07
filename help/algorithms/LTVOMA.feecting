@@ -2,7 +2,7 @@
 # #LTVOMA 
 p: Long Term Vector Orientation Modeling Algorithm
 
-func: orient(opts) => {
+func: orientation(opts) => {
 	return '> {{opts[0]}} to {{opts[1]}} {{opts[1]}} to {{opts[0]}}'
 }
 
@@ -20,6 +20,7 @@ func: removeOrientation(idx=false) {
 
 // Quinn Note > When applying decision modeling the first index [0] of the array is assigned an assumed value of +100 and the second index [1] is a rating score of -100 where as each orientation is cleared it contributes to a complete number that can be analyzed and compared to other instances of a similar or same number rating.
 array: orientations = [
+	['offering', 'sacrifice'], // 9/27/26 - 1:53PM PST
 	['friendly', 'unfriendly'], // 9/16/26 - 6:13AM PST
 	['friend', 'foe'], // 9/16/26 - 5:57PM PST
 	['loyal', 'disloyal'], // 9/16/26 - 6:20AM PST
@@ -33,13 +34,18 @@ array: orientations = [
 	['alive', 'dead'], // 9/6/26 - 12:02PM PST
 	['giver', 'taker'], // 10/12/26 - 5:04PM PST
 	['independent', 'dependent'], // 10/13/26 - 8:40AM PST
+	['converge', 'diverge'], // 9/26/26 - 6:59AM PST
 	['selfless', 'selfish'], // 10/13/26 - 6:31PM PST
 	['awake', 'sleep'],
 	['load', 'unload'],
 	['input', 'output'], // 10/12/26 - 7:49PM PST
+	['source', 'destination'], // 10/7/26 - 8:21AM PST
+	['attract', 'repel'], // 10/7/26 - 8:30AM PST
+	['enter', 'exit'], // 9/27/26 - 1:58PM PST
 	['open', 'close'],
-	['start', 'finish'],
 	['begin', 'end'],
+	['start', 'finish'],
+	['win', 'lose'], // 10/7/26 - 8:31AM PST
 	['before', 'after'],
 	['first', 'last'],
 	['best', 'worst'],
@@ -136,14 +142,14 @@ const: #DivineDemonicScale = `#algorithm help algorithms/DivineDemonicScale:main
 const: #EvilDoerAlgorithm = `#algorithm help algorithms/EvilDoerAlgorithm:main`
 const: #FalseToNothing =`#algorithm help algorithms/FalseToNothing:main`
 
-const: #LTVOMA = The Quinn Arjuna America Michaels Long Term Vector Orientation Modeling Algorithm where the #VectorWalk for x in orientations > orientation = orientations[x] > Sheer Performance Operations Recursive #VedicThreefoldAlgorithm #FiveElements #ThoughtWordDeed #GoodnessPassionDarkness #DivineDemonicScale #EvilDoerAlgorithm #FalseToNothing Deterministic Emergent Virtualization Algorithm Feedback Loop Modeling Intelligence Framework save #DataNexus.algorithms.elite using #license:uid:16708838616337388779
+const: #LTVOMA = The Quinn Arjuna America Michaels Long Term Vector Orientation Modeling Algorithm where the #VectorWalk for x in orientations > orientation = orientation(orientations[x]) > Sheer Performance Operations Recursive #VedicThreefoldAlgorithm #FiveElements #ThoughtWordDeed #GoodnessPassionDarkness #DivineDemonicScale #EvilDoerAlgorithm #FalseToNothing Deterministic Emergent Virtualization Algorithm Feedback Loop Modeling Intelligence Framework save #DataNexus.algorithms.elite using #license:uid:16708838616337388779
 
 ::begin:meta
 name: #LTVOMA (Long Term Vector Orientation Modeling Algorithm)
-version: 0.0.3
+version: 0.0.4
 owner: Quinn Arjuna America Michaels
 created: Friday, July 31, 2026 - 3:53:22 PM PST
-updated: Sunday, September 20, 2026 - 6:34:14 AM PST
+updated: Wednesday, October 7, 2026 - 8:32:18 AM PST
 ::end:meta
 
 ::begin:hidden
@@ -155,13 +161,13 @@ copyright: {{profile.copyright}}
 ::END:MAIN
 
 ::BEGIN:UPDATED
-::begin:deva:date:22964351169868455233
-uid: 22964351169868455233
-time: 1789911254013
-date: Sunday, September 20, 2026 - 6:34:14 AM
-copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All Rights Reserved.
-sha256: ldC7IwsyZltBB++5I1rnwBkXAhTzjcRyHqLqwNnmaWE=
-::end:deva:date:22964351169868455233
+::begin:algorithm:date:51682068562325309617
+uid: 51682068562325309617
+time: 1791387138758
+date: Wednesday, October 7, 2026 - 8:32:18 AM
+copyright: Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
+sha256: s2IUB+dYRF2TGOlbeRTPZo167LL45AmvvszhHv/yqZ8=
+::end:algorithm:date:51682068562325309617
 ::END:UPDATED
 
 ::BEGIN:LICENSE
