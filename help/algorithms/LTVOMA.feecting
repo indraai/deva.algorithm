@@ -31,9 +31,13 @@ array: orientations = [
 	['yes', 'no'],
 	['on', 'off'],
 	['do', 'undo'],
+	['confirm', 'deny'], // 10/7/26 - 9:14AM PST
+	['accept', 'reject'], // 10/7/26 - 9:16AM PST
 	['alive', 'dead'], // 9/6/26 - 12:02PM PST
 	['giver', 'taker'], // 10/12/26 - 5:04PM PST
 	['independent', 'dependent'], // 10/13/26 - 8:40AM PST
+	['cooperate', 'conflict'], // 10/7/26 - 9:06AM PST
+	['conversation', 'argument'], // 10/7/26 - 9:09AM PST
 	['converge', 'diverge'], // 9/26/26 - 6:59AM PST
 	['selfless', 'selfish'], // 10/13/26 - 6:31PM PST
 	['awake', 'sleep'],
@@ -146,10 +150,10 @@ const: #LTVOMA = The Quinn Arjuna America Michaels Long Term Vector Orientation 
 
 ::begin:meta
 name: #LTVOMA (Long Term Vector Orientation Modeling Algorithm)
-version: 0.0.4
+version: 0.0.5
 owner: Quinn Arjuna America Michaels
 created: Friday, July 31, 2026 - 3:53:22 PM PST
-updated: Wednesday, October 7, 2026 - 8:32:18 AM PST
+updated: Wednesday, October 7, 2026 - 9:12:35 AM PST
 ::end:meta
 
 ::begin:hidden
@@ -161,13 +165,13 @@ copyright: {{profile.copyright}}
 ::END:MAIN
 
 ::BEGIN:UPDATED
-::begin:algorithm:date:51682068562325309617
-uid: 51682068562325309617
-time: 1791387138758
-date: Wednesday, October 7, 2026 - 8:32:18 AM
-copyright: Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
-sha256: s2IUB+dYRF2TGOlbeRTPZo167LL45AmvvszhHv/yqZ8=
-::end:algorithm:date:51682068562325309617
+::begin:algorithm:date:56600556014009041897
+uid: 56600556014009041897
+time: 1791389555895
+date: Wednesday, October 7, 2026 - 9:12:35 AM
+copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
+sha256: KzTVYjZPB0jUmuS5Mb9oybS1ohR458cOQH0e/K8IwCM=
+::end:algorithm:date:56600556014009041897
 ::END:UPDATED
 
 ::BEGIN:LICENSE
