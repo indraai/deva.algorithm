@@ -90,7 +90,18 @@ p: The algorithm incorporates recursive incrementing and reduction factors:
 4. Sum of 7 Water = 35 → reduced 3 + 5 = 8
 5. Sum of 9 Earth = 45 → reduced 4 + 5 = 9
 
-Each sum increases by exactly 10 relative to the prior sum, creating a natural recursion incrementer. Reducing sums to a single digit generates the sequence 5, 6, 7, 8, 9, which serves as a multi-dimensional control sequence within the algorithm. This sequence is critical in modeling dynamic systems, growth patterns, and interactions across dimensions.
+p: Each sum increases by exactly 10 relative to the prior sum, creating a natural recursion incrementer. Reducing sums to a single digit generates the sequence 5, 6, 7, 8, 9, which serves as a multi-dimensional control sequence within the algorithm. This sequence is critical in modeling dynamic systems, growth patterns, and interactions across dimensions.
+
+p: Then if taking the incrementing factors from the previous stage we do the subtraction to create the 0-4 sequence. Where substractign the first item 5 from the same item or item above it.
+
+1. Sum of 1 Ether = 5 → reduced 5 - 5 = 0
+2. Sum of 3 Air = 15 → reduced 1 + 5 = 6 - 5 = 1
+3. Sum of 5 Light = 25 → reduced 2 + 5 = 7 - 5 = 2
+4. Sum of 7 Water = 35 → reduced 3 + 5 = 8 = 5 = 3
+5. Sum of 9 Earth = 45 → reduced 4 + 5 = 9 = 5 = 4
+
+p: Which from here we can build the 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 number system. 
+
 
 6. Sum of the Grid: Each row sums to 25, and the entire grid sums to 125.
 
@@ -120,7 +131,7 @@ p: The resulting 6-pointed star (hexagram) extends beyond the 2D grid into a 3D 
 ## Step 5: Vedic Link 
 link[The Mahabharata Book 5 SECTION XXXIII]: https://sacred-texts.com/hin/m05/m05033.htm
    
-p: These eight qualities glorify a man are wisdom, high birth, self-restraint, learning, prowess, moderation in speech, gift according to one's power, and gratitude. This house hath nine doors, three pillars, and five witnesses. It is presided over by the soul. That learned man who knoweth all this is truly wise. O Dhritarashtra, these ten do not know what virtue is viz., the intoxicated, inattentive, the raving, the fatigued, the angry, the starving, the hasty, the covetous, the frightened, and the lustful. 
+p: These eight qualities glorify a man are WISDOM, HIGH BIRTH, SELF-RESTRAINT, LEARNING, PROWESS, MODERATION in SPEECH, GIFT ACCORDING to ONE'S POWER, and GRATITUDE. This house hath nine doors, three pillars, and five witnesses. It is presided over by the soul. That learned man who knoweth all this is truly wise. O Dhritarashtra, these ten do not know what virtue is viz., the intoxicated, inattentive, the raving, the fatigued, the angry, the starving, the hasty, the covetous, the frightened, and the lustful. 
 
 const: #EightQaulities = wisdom, high birth, self-restraint, learning, prowess, moderation in speech gift according to one's power, and gratitude.
 const: #ThisHouse = Nine Doors Tree Pillars and Five Witnesses presided over by the soul (1).
@@ -187,16 +198,26 @@ talk: #algorithm help algorithms/b593:origin
 ::BEGIN:META
 ::begin:meta:44653714700037037723
 name: b5(9³)
-version: 0.1.4
+version: 0.1.5
 date: Friday, November 14, 2025
-updated: Monday, October 12, 2026 - 7:59:18 PM PST
+updated: Thursday, October 15, 2026 - 1:16:03 PM PST
 license: VLA:44653714700037037723
-creator: Quinn A Michaels
+creator: Quinn Arjuna America Michaels
 email: quinn@indra.ai
 url: https://indra.ai
 copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
 ::end:meta:44653714700037037723
 ::END:META
+
+::BEGIN:UPDATED
+::begin:algorithm:date:13050453601044428237
+uid: 13050453601044428237
+time: 1792095363337
+date: Thursday, October 15, 2026 - 1:16:03 PM
+copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
+sha256: Rlbs9r4oFSBQM+W9VPUB9hdk35y5Lc15FXlTxEHzYHQ=
+::end:algorithm:date:13050453601044428237
+::END:UPDATED
 
 ::BEGIN:LICENSE
 ::begin:om:license:uid:44653714700037037723
