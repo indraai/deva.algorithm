@@ -170,25 +170,25 @@ p: In 2007 when the algorithm was first envisioned Quinn was studying the blendi
 quote: There are these five properties, Rahula. Which five? The earth property, the water property, the fire property, the wind property, & the space property.
 
 ### Internal Earth Property
-p: Anything internal, within oneself, that's hard, solid, & sustained by craving. Head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained.
+p: Anything internal that's hard, solid, & sustained by craving. Head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained.
 
 ### Internal Water Property
-p: Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained
+p: Anything internal that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained
 
 ### Internal Fire Property
-p: Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which the body is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained.
+p: Anything internal that's fire, fiery, & sustained: that by which the body is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained.
 
 ### Internal Wind Property
-p: Anything internal, belonging to oneself, that's wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained
+p: Anything internal that's wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained
 
 ### Internal Space Property 
-p: Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained
+p: Anything internal that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained
 
 ## Applications of b5(9³)
 1. Symbolic Representations: Mapping universal forces (e.g., physical, metaphysical, or natural elements).
 2. Energy Dynamics: The interlacing triangles represent equilibrium—opposing yet complementary forces in balance.
 3. Higher Dimensions: Extending the base grid to a cube creates a 3D "lattice" structure for modeling interactions in higher dimensions.
-
+4. Reality Simulation: Using the algorithm to model reality, decisions, and interactions between states, entities, operators, users, and systems.
 
 ## Conclusion
 The b5(9³) algorithm is a powerful synthesis of number theory, geometry, and elemental physics. Starting from a simple 5x5 grid, rotating and connecting specific elements reveals intricate relationships, both numerical and geometric. This structure provides a framework for understanding dynamic systems—whether they are physical, metaphysical, mechanical, or mathematical.
@@ -205,9 +205,9 @@ talk: #algorithm help algorithms/b593:origin
 ::BEGIN:META
 ::begin:meta:44653714700037037723
 name: b5(9³)
-version: 0.1.5
+version: 1.0.0
 date: Friday, November 14, 2025
-updated: Thursday, October 15, 2026 - 1:16:03 PM PST
+updated: Friday, October 16, 2026 - 8:24:55 AM PST
 license: VLA:44653714700037037723
 creator: Quinn Arjuna America Michaels
 email: quinn@indra.ai
@@ -217,13 +217,13 @@ copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reser
 ::END:META
 
 ::BEGIN:UPDATED
-::begin:algorithm:date:13050453601044428237
-uid: 13050453601044428237
-time: 1792095363337
-date: Thursday, October 15, 2026 - 1:16:03 PM
+::begin:algorithm:date:33877516039928171064
+uid: 33877516039928171064
+time: 1792164295159
+date: Friday, October 16, 2026 - 8:24:55 AM
 copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
-sha256: Rlbs9r4oFSBQM+W9VPUB9hdk35y5Lc15FXlTxEHzYHQ=
-::end:algorithm:date:13050453601044428237
+sha256: wJyDOhxkzX+Z5lxqIo82GSSQMSh3Vo7ZLzadUYZWiyk=
+::end:algorithm:date:33877516039928171064
 ::END:UPDATED
 
 ::BEGIN:LICENSE
