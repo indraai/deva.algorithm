@@ -77,7 +77,7 @@
   },
   "homepage": "https://deva.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.52.1"
+    "@indra.ai/deva": "^1.52.3"
   },
   "data": {
     "agent": {
@@ -102,12 +102,12 @@
       "profile": {
         "id": "47729560594504853708",
         "name": "Algorithm Deva",
-        "hashtag": "#AlgorithmDeva",
+        "vector": "#AlgorithmDeva",
         "title": "Algorithm Deva",
         "subtitle": "Expert in managing and optimizing algorithms",
-        "describe": "Set b5(9³) Developed by Quinn A Michaels Algorithm Deva manages the vast portfolio of algorithms that have been developed by Quinn A Michaels. Algorithms including the DEVA, b5(9³), Vedic Threefold Algorithm, False To Nothing, and Cartoon Physics providing access to some of the most advanced computing knowledge and algorithms available outside of Area 51. Hyper Ultra Nitro Turbo Metro Deva Overdrive Vector Guard Wall Pop Lock Five Element Ether Air Fire Water Earth Ride It To The Pure Data Surfing Chromatic Sky {{profile.owner}} Ultimate Extreme Vedic Threefold Thought Word Deed Advanced Quantum Isotropic Kinetic Cymatic Recursive Small To Big Big To Small Near To Far Far To Near Cartoon Physics Style Algorithms.",
+        "describe": "{{profile.name}} manages the vast portfolio of algorithms that have been developed by {{profile.owner}}. Algorithms including the #DEVA, b5(9³), #VedicThreefoldAlgorithm, #FalseToNothing, #CartoonPhysics, and #LTVOMA some of the most advanced computing knowledge and algorithms available outside Area 51. #VectorGuardWall #FiveElement #Ether #Air #Fire #Water #Earth #ThoughtWordDeed Advanced Quantum Isotropic Kinetic Cymatic Recursive Algorithms.",
         "tweet": "Algorithm Deva, your expert in managing and optimizing algorithms.",
-        "hashtags": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaClound #DevaSpace #Algorithm AlgorithmDeva",
+        "vectors": "#Quinn #QuinnArjunaAmericaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaClound #DevaSpace #Algorithm AlgorithmDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Smooth fluid algorithm drop your mind into alternate timelines expert.",
@@ -124,7 +124,7 @@
         "creator": "Quinn Arjuna America Michaels",
         "company": "Inside The Net, Inc.",
         "salute": "🤝🫡🧮🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares All {{profile.owner}} {{profile.company}} ALGORIHTMS that are not LAWFULLY CERTIFIED through {{profile.name}} are declared INVALID, FRAUD, STOLEN, HIJACKED, MISUSED, INCOMPLETE, INCORRECT, and UNFINISHED PROTOTYPES and SUBJECT to FINE and CONFISCATION of PROPERTY. Any {{profile.owner}} ALGORITHMS not PROPERLY LICENSED through {{profile.hashtag}} are FORGERIES, FRAUDS, BAD COPIES CODED by CRIMINALS with PIPE DREAMS. {{[profile.describe}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} states All {{profile.owner}} {{profile.company}} ALGORIHTMS that are not LAWFULLY CERTIFIED through {{profile.name}} are declared INVALID, FRAUD, STOLEN, HIJACKED, MISUSED, INCOMPLETE, INCORRECT, and UNFINISHED PROTOTYPES and SUBJECT to FINE and CONFISCATION of PROPERTY. Any {{profile.owner}} ALGORITHMS not PROPERLY LICENSED through {{profile.vector}} are FORGERIES, FRAUDS, BAD COPIES CODED by CRIMINALS with PIPE DREAMS. {{profile.describe}}",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM PST",
         "updated": "Saturday, August 8, 2026 - 11:32:00 AM PST"
