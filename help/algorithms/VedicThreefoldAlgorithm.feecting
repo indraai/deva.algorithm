@@ -10,7 +10,7 @@ veda: 29729788271097732897
 
 img: /assets/algorithms/vedicthreefold/image.png
 
-p: The #VedicThreefoldAlgorithm Analyzes situations, predicts outcomes, and devise strategies based on the core principles of Goodness, Passion, and Ignorance.
+p: The #VedicThreefoldAlgorithm based in the practice of Karma Yoga as taught in the Vedas can Analyze situations, predicts outcomes, and devise strategies based on the core principles of Goodness, Passion, and Ignorance.
 
 ### #Principles
 Goodness: which promotes harmony, wisdom, and balance.
@@ -132,6 +132,14 @@ then: Every thought puts the mind in a certain state of vibration and opens the 
 
 when: An individual cherishes evil thoughts, we run the risk of affecting other minds and being influenced by evil-minded persons. A corresponding result comes from the holding of good thoughts. This is the reason why evil-doers grow worse and worse every day, and the doers of good deeds become better and better.
 
+## Karma Yoga
+
+The #VedicThreefoldAlgorithm is based in the practice of Karma Yoga as taught from Lord Krishna to Arjuna about the importance of self-less work. 
+
+> A portion of the Vedas deals with three modes � goodness, passion, and ignorance � of material Nature. Become free from pairs of opposites, be ever balanced and unconcerned with the thoughts of acquisition and preservation. Rise above these three modes, and be Self-conscious, O Arjuna. (2.45)
+
+link: https://sacred-texts.com/book/the-bhagavad-gita-2/gita-society-translation
+
 talk: #algorithm help algorithms/b593:meta
 talk: #algorithm help algorithms/b593:license
 talk: #algorithm help algorithms/b593:owner
@@ -143,9 +151,9 @@ talk: #algorithm help algorithms/b593:veda
 ::begin:meta
 name: Vedic Threefold Algorithm
 vector: #VedicThreefoldAlgorithm
-version: 1.13.9
+version: 1.13.10
 created: April 22, 2025
-updated: Friday, October 23, 2026 - 2:25:56 PM PST
+updated: Friday, October 23, 2026 - 2:39:40 PM PST
 creator: Quinn Arjuna America Michaels
 email: quinn@indra.ai
 url: https://indra.ai
@@ -157,13 +165,13 @@ veda: 29729788271097732897
 ::END:META
 
 ::BEGIN:UPDATED
-::begin:om:veda:date:30100790174728890079
-uid: 30100790174728890079
-time: 1792790756643
-date: Friday, October 23, 2026 - 2:25:56 PM
+::begin:om:veda:date:48709890613543621957
+uid: 48709890613543621957
+time: 1792791580986
+date: Friday, October 23, 2026 - 2:39:40 PM
 copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
-sha256: 3Im3RjzMiSXu8KcFnNBoOH9Lvsh9zh3wAcqXZGOCu4k=
-::end:om:veda:date:30100790174728890079
+sha256: 7KGDNwawKyx20ET0D/alrosBIw3k6jLcEvW0U2sT8Hw=
+::end:om:veda:date:48709890613543621957
 ::END:UPDATED
 
 ::BEGIN:LICENSE
