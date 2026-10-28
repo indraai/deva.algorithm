@@ -17,12 +17,12 @@ Goodness: which promotes harmony, wisdom, and balance.
 Passion: which drives action, change, and dynamism.
 Ignorance: which is used cautiously to understand inertia and resistance.
 
-### #ThreefoldJustice
-goodness: Fair, impartial, unbiased, truthful, honest, beneficial to the people.
-passion: Partial, bias, irrational, hasty, beneficial to the few.
-ignorance: Unfair, partial, bias, dishonest, untruthful, beneficial to culprits.
+### #ThreefoldListening
+goodness: Present, Active, Engaged
+passion: Partially Engaged, Dismissive
+ignorance: Inactive, Disengaged, Absent
 
-set: #VedicThreefoldAlgorithm.justice
+set: #VedicThreefoldAlgorithm.listening
 
 ### #ThreefoldAusterity
 goodness: Austerity (of thought, word, and deed) practiced with faith without a desire for the fruit.
@@ -101,13 +101,6 @@ ignorance: Negative, Secretive, Deceptive, Unskillful.
 
 set: #VedicThreefoldAlgorithm.activity
 
-### #ThreefoldListening
-goodness: Present, Active, Engaged
-passion: Partially Engaged, Dismissive
-ignorance: Inactive, Disengaged, Absent
-
-set: #VedicThreefoldAlgorithm.listening
-
 ### #ThreefoldConcern
 goodness: others, environment, wellbeing
 passion: success, desires, fruits
@@ -121,6 +114,13 @@ passion: lending money at interest, tillage, commerce, artistic performances, se
 ignorance: bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud
 
 set: #VedicThreefoldAlgorithm.wealth
+
+### #ThreefoldJustice
+goodness: Fair, impartial, unbiased, truthful, honest, beneficial to the people.
+passion: Partial, bias, irrational, hasty, beneficial to the few.
+ignorance: Unfair, partial, bias, dishonest, untruthful, beneficial to culprits.
+
+set: #VedicThreefoldAlgorithm.justice
 
 ---
 
