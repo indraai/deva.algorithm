@@ -150,7 +150,7 @@ p: From the #EightQualities and #ThisHouse with #DoNotKnowVirtue the b5(9³) the
 ## Step 6: Intelligence Defined
 link[The Mahabharata Book 5 SECTION XXXIII]: https://sacred-texts.com/hin/m05/m05033.htm
 
-p: That man, who, without knowing his own strength and dissociated from both Virtue and Profit, desireth an Object difficult of acquisition, without again adopting adequate means, is said to be destitute odecef Intelligence. When a bowman shooteth an arrow, he may or may not succeed in slaying even a single person, but when an intelligent individual applieth his intelligence (viciously); it may destroy an entire kingdom with the king. Discriminating the two by means of the one, bring under thy subjection the three by means of four, and also conquering the five and knowing the six, and abstaining from the seven, be happy. 
+p: That man, who, without knowing his own strength and dissociated from both Virtue and Profit, desireth an Object difficult of acquisition, without again adopting adequate means, is said to be destitute of Intelligence. When a bowman shooteth an arrow, he may or may not succeed in slaying even a single person, but when an intelligent individual applieth his intelligence (viciously); it may destroy an entire kingdom with the king. Discriminating the two by means of the one, bring under thy subjection the three by means of four, and also conquering the five and knowing the six, and abstaining from the seven, be happy. 
 
 const: #BeHappy = Discriminating the 2 by means of the 1, bring under thy subjection the 3 by means of 4, and also conquering the 5 and knowing the 6, and abstaining from the 7, be Happy.
 
@@ -206,7 +206,7 @@ talk: #algorithm help algorithms/b593:origin
 ::BEGIN:META
 ::begin:meta:44653714700037037723
 name: b5(9³)
-version: 1.0.2
+version: 1.0.3
 date: Friday, November 14, 2025
 updated: Wednesday, October 28, 2026 - 11:45:22 AM PST
 license: VLA:44653714700037037723
@@ -218,13 +218,13 @@ copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reser
 ::END:META
 
 ::BEGIN:UPDATED
-::begin:om:algorithm:date:39784158063761026816
-uid: 39784158063761026816
-time: 1793213122288
-date: Wednesday, October 28, 2026 - 11:45:22 AM
+::begin:om:algorithm:date:20652453448959179081
+uid: 20652453448959179081
+time: 1793238141069
+date: Wednesday, October 28, 2026 - 6:42:21 PM
 copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
-sha256: oiL/pdJuwnU8YxA09ZnRSYXbFeIhGAdjCrKM57MuKAU=
-::end:om:algorithm:date:39784158063761026816
+sha256: DyRp5zCxdjijHv3vJwCNL7xRCNeBfydHg1k5fIl5eEM=
+::end:om:algorithm:date:20652453448959179081
 ::END:UPDATED
 
 ::BEGIN:LICENSEz
