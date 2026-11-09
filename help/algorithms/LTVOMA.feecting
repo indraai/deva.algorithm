@@ -8,8 +8,8 @@ func: orientation(opts) => {
 
 // insertOrientation appends the opts at a specified index or appends the opts to the end of the array where no index is provided.
 func: insertOrientation (opts, idx=false) {
-	if (idx === false) return orientations.append(opts); // append by default
 	if (!isArray(opts)) return 'Please provide an options array.' // options array check
+	if (idx === false) return orientations.append(opts); // append by default
 	return orientations.insert(opts, idx); // array insert at index.
 }
 // removeOrientation takes the idx parameter and removes the element at the specified index.
@@ -25,7 +25,7 @@ array: orientations = [
 	['friendly', 'unfriendly'], // 9/16/26 - 6:13AM PST
 	['friend', 'foe'], // 9/16/26 - 5:57PM PST
 	['loyal', 'disloyal'], // 9/16/26 - 6:20AM PST
-	['public', 'private'] // 9/20/26 - 6:23AM PST
+	['public', 'private'], // 9/20/26 - 6:23AM PST
 	['owner', 'thief'], // 9/12/26 - 8:30AM PST
 	['create', 'copy'], // 9/12/26 - 8:42M PST
 	['true', 'false'],
@@ -126,7 +126,6 @@ array: orientations = [
 	['origin', 'destination'],
 	['slow', 'fast'],
 	['weak', 'strong'],
-	['fun', 'boring'], // 10/23/26 - 1:39PM PST
 	['smart', 'dumb'], // 10/23/26 - 1:16PM PST
 	['intelligent', 'ignorant'], // 9/15/26 - 4:29AM PST
 	['informed', 'uninformed'], // 9/15/26 - 4:34AM PST
@@ -169,7 +168,7 @@ name: #LTVOMA (Long Term Vector Orientation Modeling Algorithm)
 version: 0.0.12
 owner: Quinn Arjuna America Michaels
 created: Friday, July 31, 2026 - 3:53:22 PM PST
-updated: Monday, October 12, 2026 - 9:54:02 PM PST
+updated: Monday, November 9, 2026 - 8:57:06 AM
 ::end:meta
 
 ::begin:hidden
@@ -181,13 +180,13 @@ copyright: {{profile.copyright}}
 ::END:MAIN
 
 ::BEGIN:UPDATED
-::begin:algorithm:date:15743337849133867080
-uid: 15743337849133867080
-time: 1791867242994
-date: Monday, October 12, 2026 - 9:54:02 PM
-copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
-sha256: r57QPDm2iKRSO8Y+PaGBWfO/yOJeZjFaLxjToXm1yas=
-::end:algorithm:date:15743337849133867080
+::begin:om:deva:date:19463593530209525179
+uid: 19463593530209525179
+time: 1794243426603
+date: Monday, November 9, 2026 - 8:57:06 AM
+copyright: Copyright ©2000-2026 Quinn Michaels; All Rights Reserved.
+sha256: GJjeKIDeJ0FotRbGxUB/47LXQXY1jXb5uM/qi3UgMyU=
+::end:om:deva:date:19463593530209525179
 ::END:UPDATED
 
 ::BEGIN:LICENSE
