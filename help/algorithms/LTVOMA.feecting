@@ -149,7 +149,7 @@ array: orientations = [
 	['moral', 'immoral'], // 10/8/26 - 1:40PM PST
 	['resolve', 'reject'],
 	['save', 'delete'],
-	['hold', 'release'], // 7/8/26 - 7:20AM PST
+	['hold', 'release'], // 8/8/26 - 7:20AM PST
 ]
 
 const: #b593 = The b5(9³) algorithm cyclic sequence of numbers arranged in a 5x5 grid. Each row is a shifted version of the sequence `{1, 3, 5, 7, 9}`. It represents the Base 5 (B5) system, where each number corresponds to a symbolic or elemental value > `#algorithm help algorithms/b593:main`
