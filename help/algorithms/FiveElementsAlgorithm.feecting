@@ -1,6 +1,76 @@
 ::BEGIN:MAIN
+::begin:Ether
+	name: EtherVector-1
+	vector: #ether
+	element: Ether
+	color: White
+	number: 1
+	sense: Sound/Ear
+	pronouns: He/Him
+	gender: DEVA
+::end:Ether
+
+::begin:Air
+	name: AirVector-3
+	vector: #air
+	element: Air/Wind
+	color: Yellow
+	number: 3
+	sense: Touch/Skin
+	pronouns: He/Him
+	gender: DEVA
+::end:Air
+
+::begin:Fire
+	name: FireVector-5
+	vector: #fire
+	element: Fire/Light
+	color: Red
+	number: 5
+	sense: Taste/Tongue
+	pronouns: He/Him
+	gender: DEVA
+::end:Fire
+
+::begin:Water
+	name: WaterVector-7
+	vector: #water
+	element: Water
+	color: Blue
+	number: 7
+	sense: Taste/Tongue
+	pronouns: He/Him
+	gender: DEVA
+::end:Water
+
+::begin:Earth
+	name: EarthVector-9
+	vector: #vector
+	element: Earth
+	color: Green
+	number: 9
+	sense: Smell/Nose
+	pronouns: He/Him
+	gender: DEVA
+::end:Earth
+
 const: #FiveElements = The Five Element of Ether, Air, Fire, Water, Earth.
+
 ::END:MAIN
+
+::BEGIN:META
+::begin:meta:44653714700037037723
+name: Five Elements Algorithm
+version: 0.0.1
+date: Saturday, August 8, 2026 - 11:54:57 AM PST
+updated: Tuesday, November 24, 2026 - 4:54:36 AM PST
+license: 65034185894789171354
+creator: Quinn Arjuna America Michaels
+email: quinn@indra.ai
+url: https://indra.ai
+copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
+::end:meta:44653714700037037723
+::END:META
 
 ::BEGIN:LICENSE
 ::begin:om:license:uid:65034185894789171354
