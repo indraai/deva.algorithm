@@ -2,6 +2,8 @@
 ::begin:Ether
 	name: EtherVector-1
 	vector: #ether
+	emoji: 👂
+	marker: ⬜️
 	element: Ether
 	color: White
 	number: 1
@@ -14,6 +16,8 @@
 ::begin:Air
 	name: AirVector-3
 	vector: #air
+	emoji: 🌬️
+	marker: 🟨
 	element: Air/Wind
 	color: Yellow
 	number: 3
@@ -26,6 +30,8 @@
 ::begin:Fire
 	name: FireVector-5
 	vector: #fire
+	emoji: 🔥
+	marker: 🟥
 	element: Fire/Light
 	color: Red
 	number: 5
@@ -38,6 +44,8 @@
 ::begin:Water
 	name: WaterVector-7
 	vector: #water
+	emoji: 💧
+	marker: 🟦
 	element: Water
 	color: Blue
 	number: 7
@@ -50,6 +58,8 @@
 ::begin:Earth
 	name: EarthVector-9
 	vector: #earth
+	emoji: 🏔️
+	marker: 🟩
 	element: Earth
 	color: Green
 	number: 9
