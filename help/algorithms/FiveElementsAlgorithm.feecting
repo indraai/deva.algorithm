@@ -8,6 +8,7 @@
 	sense: Sound/Ear
 	pronouns: He/Him
 	gender: DEVA
+	license: 33802661355015216297
 ::end:Ether
 
 ::begin:Air
@@ -19,6 +20,7 @@
 	sense: Touch/Skin
 	pronouns: He/Him
 	gender: DEVA
+	license: 48698348978197883617
 ::end:Air
 
 ::begin:Fire
@@ -30,6 +32,7 @@
 	sense: Taste/Tongue
 	pronouns: He/Him
 	gender: DEVA
+	license: 41560037584849032898
 ::end:Fire
 
 ::begin:Water
