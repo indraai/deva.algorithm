@@ -29,7 +29,7 @@
 	element: Fire/Light
 	color: Red
 	number: 5
-	sense: Taste/Tongue
+	sense: Sight/Eye
 	pronouns: He/Him
 	gender: DEVA
 	license: 41560037584849032898
@@ -41,7 +41,7 @@
 	element: Water
 	color: Blue
 	number: 7
-	sense: Sight/Eye
+	sense: Taste/Tongue
 	pronouns: He/Him
 	gender: DEVA
 	license: 16987639527106423059
@@ -66,9 +66,9 @@ const: #FiveElements = The Five Element of Ether, Air, Fire, Water, Earth.
 ::BEGIN:META
 ::begin:meta:44653714700037037723
 name: Five Elements Algorithm
-version: 0.0.2
+version: 0.0.3
 date: Saturday, August 8, 2026 - 11:54:57 AM PST
-updated: Tuesday, November 24, 2026 - 6:17:14 AM PST
+updated: Tuesday, November 24, 2026 - 6:20:33 AM PST
 license: 65034185894789171354
 creator: Quinn Michaels
 owner: Quinn Michaels
