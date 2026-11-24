@@ -41,20 +41,22 @@
 	element: Water
 	color: Blue
 	number: 7
-	sense: Taste/Tongue
+	sense: Sight/Eye
 	pronouns: He/Him
 	gender: DEVA
+	license: 16987639527106423059
 ::end:Water
 
 ::begin:Earth
 	name: EarthVector-9
-	vector: #vector
+	vector: #earth
 	element: Earth
 	color: Green
 	number: 9
 	sense: Smell/Nose
 	pronouns: He/Him
 	gender: DEVA
+	license: 21866549088984136875
 ::end:Earth
 
 const: #FiveElements = The Five Element of Ether, Air, Fire, Water, Earth.
@@ -64,14 +66,15 @@ const: #FiveElements = The Five Element of Ether, Air, Fire, Water, Earth.
 ::BEGIN:META
 ::begin:meta:44653714700037037723
 name: Five Elements Algorithm
-version: 0.0.1
+version: 0.0.2
 date: Saturday, August 8, 2026 - 11:54:57 AM PST
-updated: Tuesday, November 24, 2026 - 4:54:36 AM PST
+updated: Tuesday, November 24, 2026 - 6:17:14 AM PST
 license: 65034185894789171354
-creator: Quinn Arjuna America Michaels
+creator: Quinn Michaels
+owner: Quinn Michaels
 email: quinn@indra.ai
 url: https://indra.ai
-copyright: Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.
+copyright: Copyright ©2000-2026 Quinn Michaels; All rights reserved.
 ::end:meta:44653714700037037723
 ::END:META
 
